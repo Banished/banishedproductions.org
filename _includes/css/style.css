@@ -1,16 +1,10 @@
-/*
-font-family: 'Source Sans Pro', sans-serif;
-font-family: 'Buenard', serif;
-*/
-
-
 /* Inline Elements & Typography
 ------------------------------------------------------- */
 body,
 input,
 textarea {
   color:#333;
-  font:15px/1.67 'Source Sans Pro', Arial, sans-serif;
+  font:15px/1.67 'Quicksand', Arial, sans-serif;
   -webkit-font-smoothing:antialiased;
   }
 *, *:after, *:before {
@@ -26,10 +20,11 @@ h4,
 h5,
 h6 {
   margin:0;
-  font-weight:bold;
+  font-weight:300;
   }
 
 h1 {
+  font-weight:700;
   font-size:32px;
   margin-bottom:20px;
   line-height:1em;
@@ -54,6 +49,7 @@ h4, h5 {
   }
 
 p {
+  font-weight:400;
   margin:0 0 20px;
   }
   p:last-child { margin-bottom:0;}
@@ -287,10 +283,10 @@ nav a.artillery {
   background: #ff5555;
   font-weight:900;
   color:#fff;
-  font-family: 'Buenard', serif;
+  font-family: 'Cardo', serif;
 }
 nav a.artillery {
-  font-family: 'Source Sans Pro', sans-serif;
+  font-family: '20_db', serif;
   width:auto;
 }
 nav a.artillery span {
@@ -304,7 +300,6 @@ nav .divider {
 section.main {
   border-bottom:2px solid #f6f6f6;
 }
-section ul.main li,
 footer ul li{
   height:200px;
   padding:10px;

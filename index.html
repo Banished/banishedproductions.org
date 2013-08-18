@@ -1,16 +1,47 @@
 ---
 layout: default
 ---
+<style>
+ul.main .logo{
+	display:block;
+}
+.logo.footsteps {
+	margin-top:280px;
+}
+.logo.wildcard {
+	margin-top:240px;
+}
+</style>
 <ul class='main col8'>
-	<li class='col2 transition'><a>Tactile</a></li>
-	<li class='col2 transition'><a href='{{site.baseurl}}footsteps'>Footsteps</a></li>
-	<li class='col2 transition'><a>Machaniques</a></li>
-	<li class='col2 transition'><a>Wildcard</a></li>
+	<li class='col2 transition'>
+		<a>
+			<div class='logo tactile'><img class='col12' src='{{site.baseurl}}img/temp/tactile.png'/></div>
+			<h2>Tactile</h2>
+		</a>
+	</li>
+	<li class='col3 transition'>
+		<a href='{{site.baseurl}}footsteps'>
+			<div class='logo footsteps'><img class='col12' src='{{site.baseurl}}img/temp/footsteps.png'/></div>
+			<h2>Footsteps</h2>
+		</a>
+	</li>
+	<li class='col3 transition'>
+		<a>
+			<div class='logo mechaniques'><img class='col12' src='{{site.baseurl}}img/temp/mechanique.png'/></div>
+			<h2>Mechaniques</h2>
+		</a>
+	</li>
+	<li class='col3 transition'>
+		<a>
+			<div class='logo wildcard'><img class='col12' src='{{site.baseurl}}img/temp/wildcard.png'/></div>
+			<h2>Wildcard</h2>
+		</a>
+	</li>
 </ul>
 {% include featured.html %}
 <script>
-$('section ul.main li').on('mouseover mouseout',function(){
-	$(this).toggleClass('col2');
-	$(this).toggleClass('col3')
-})
+// $('section ul.main li').on('mouseover mouseout',function(){
+// 	$(this).toggleClass('col2');
+// 	$(this).toggleClass('col3')
+// })
 </script>

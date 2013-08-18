@@ -3,20 +3,37 @@ layout: default
 ---
 {% assign show = page.title | downcase %}
 <style>
-#flickr img {
-	padding: 0 20px 20px 0;
+
+.small-logo {
+	position:absolute;
+	display:block;
+	margin:-38px 0px 0 260px;
+	width:45px;
+	height:45px;
+	border:1px dotted #ff5555;
+	font-size:12px;
+	line-height:20px;
 }
 .subtitle {
 	padding-bottom:20px;
 }
-iframe.vimeo {
-	padding-right:20px;
+.intro {
+	border: 1px dotted #ff5555;
+}
+#flickr {
+	height:605px;
+}
+#flickr img {
+	border:5px solid #fff;
+}
+#vimeo {
+	padding:0 5px;
  	width:100%!important;
  	height:240px;
 }
 </style>
 <section class='col12'>
-	<h1>{{page.title}}</h1>
+	<h1>{{page.title}}<span class='small-logo'>mini-logo</span></h1>
 	<p class='subtitle'>{{page.subtitle}}</p>
 </section>
 <section class='col6'>
@@ -26,25 +43,36 @@ iframe.vimeo {
 	{% endif %}
 	<!-- videos -->
 	{% if page.vimeo %}
-	<iframe class='vimeo' src="http://player.vimeo.com/video/{{page.vimeo}}" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
+	<iframe id='vimeo' src="http://player.vimeo.com/video/{{page.vimeo}}" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
 	{% endif %}
-	<p>{{content}}<p>
-</section>
-<section class='col5 margin0'>
+	<div class='intro pad2'>
+		{{content}}
+	</div>
 	{% if page.tags contains 'instruction' %}
+		{% include instruction.html %}
+
 		{% for post in site.posts %}
+
 		{% if post.categories contains 'instruction' and post.categories contains show %}
 			{{post.content | markdownify}}
 		{% endif %}
 		{% endfor %}
+
 	{% endif %}
+</section>
+<section class='col5 margin0'>
 	{% if page.tags contains 'venue' %}
+
+		{% include venue.html %}
+
 		{% for post in site.posts %}
 		{% if post.categories contains 'venue' and post.categories contains show %}
 			{{post.content | markdownify}}
 		{% endif %}
 		{% endfor %}
+
 	{% endif %}
+
 	{% include credentials.html %}
 </section>
 <script>
