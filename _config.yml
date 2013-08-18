@@ -9,10 +9,14 @@ baseurl: /
 
 #prose
 prose:
-  media: 'assets'
   rooturl: "_posts"
+  media: 'assets'
   metadata:
     _posts/shows:
+      - name: "layout"
+        field:
+          element:"hidden"
+          value:"show"
       - name: "title"
         field:
           element: "text"
@@ -37,3 +41,8 @@ prose:
               value: "tactile"
             - name: "wildcard"
               value: "wildcard"
+    _posts/series:
+      - name: "layout"
+        field:
+          element:"hidden"
+          value:"series"
