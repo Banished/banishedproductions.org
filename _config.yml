@@ -5,7 +5,7 @@ markdown: rdiscount
 rdiscount:
   extensions: [smart]
 permalink: /:categories/:title
-baseurl: /
+baseurl: 
 
 #prose
 prose:
@@ -17,11 +17,6 @@ prose:
         field:
           element:"hidden"
           value:"show"
-      - name: "title"
-        field:
-          element: "text"
-          label: "Title"
-          value: ""
       - name: "subtitle"
         field:
           element: "text"
@@ -41,8 +36,47 @@ prose:
               value: "tactile"
             - name: "wildcard"
               value: "wildcard"
+      - name: "flickr"
+        field:
+          element: "text"
+          label: "Flickr Photoset ID"
+          value: ""
+      - name: "vimeo"
+        field:
+          element: "text"
+          label: "Vimeo Video ID"
+          value: ""
+      - name: "collaborators"
+        field:
+          element: "textarea"
+          label: "Artistic Collaborators"
+          value: ""
+      - name: "voices"
+        field:
+          element: "textarea"
+          label: "Voices by"
+          value: ""
+      - name: "performers"
+        field:
+          element: "textarea"
+          label: "Performers"
+          value: ""
+      - name: "thanks"
+        field:
+          element: "textarea"
+          label: "Many Thanks To"
+          value: ""
+      - name: "tags"
+        field:
+          element: "multiselect"
+          label: "Add Tags"
+          options:
+            - name: "instructions"
+              value: "instructions"
+            - name: "venue"
+              value: "venue"
     _posts/series:
       - name: "layout"
         field:
-          element:"hidden"
-          value:"series"
+          element: "hidden"
+          value: "series"
