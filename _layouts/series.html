@@ -1,6 +1,14 @@
 ---
 layout: default
 ---
-<div class='series-logo'></div>
-<h1>{{page.title}}</h1>
-{{content}}
+{% assign downcaseTitle = page.title | downcase %}
+<div class='col12 series-name'>
+	<h1 class='title'>{{page.title | capitalize }} Series</h1>
+	<h3 class='subtitle'>{{page.subtitle | capitalize }}</h3>
+</div>
+<div class='col4 animated {{downcaseTitle}}'>
+	<img src='{{site.baseurl}}/img/animated/{{downcaseTitle}}.gif'>
+</div>
+<div class='col8 series-content'>
+	{{content}}
+</div>

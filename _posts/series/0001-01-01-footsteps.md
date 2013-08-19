@@ -1,7 +1,6 @@
 ---
 layout: series
-title: footsteps
+subtitle: "private narrative travels (through) public spaces"
 ---
-- [the circle](/footsteps/the-circle)
-- [walk with me](/footsteps/walk-with-me)
-<!-- logo will be in the frontmatter -->
+- [The circle](/footsteps/the-circle)
+- [Walk with me](/footsteps/walk-with-me)

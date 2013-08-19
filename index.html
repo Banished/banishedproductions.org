@@ -1,47 +1,32 @@
 ---
 layout: default
 ---
-<style>
-ul.main .logo{
-	display:block;
-}
-.logo.footsteps {
-	margin-top:280px;
-}
-.logo.wildcard {
-	margin-top:240px;
-}
-</style>
-<ul class='main col8'>
-	<li class='col2 transition'>
-		<a>
-			<div class='logo tactile'><img class='col12' src='{{site.baseurl}}img/temp/tactile.png'/></div>
-			<h2>Tactile</h2>
-		</a>
-	</li>
-	<li class='col3 transition'>
-		<a href='{{site.baseurl}}footsteps'>
-			<div class='logo footsteps'><img class='col12' src='{{site.baseurl}}img/temp/footsteps.png'/></div>
-			<h2>Footsteps</h2>
-		</a>
-	</li>
-	<li class='col3 transition'>
-		<a>
-			<div class='logo mechaniques'><img class='col12' src='{{site.baseurl}}img/temp/mechanique.png'/></div>
-			<h2>Mechaniques</h2>
-		</a>
-	</li>
-	<li class='col3 transition'>
-		<a>
-			<div class='logo wildcard'><img class='col12' src='{{site.baseurl}}img/temp/wildcard.png'/></div>
-			<h2>Wildcard</h2>
-		</a>
-	</li>
-</ul>
-{% include featured.html %}
-<script>
-// $('section ul.main li').on('mouseover mouseout',function(){
-// 	$(this).toggleClass('col2');
-// 	$(this).toggleClass('col3')
-// })
-</script>
+<div class='main-outer col11'>
+	<h3 class='tagline'>the avant-pop art of play</h3>
+	<ul class='main col12 pad4 fl'>
+		<li class='col2'>
+			<a href='{{site.baseurl}}/tactile'>
+				<span class='logo tactile transition'></span>
+				<p>Tactile</p>
+			</a>
+		</li>
+		<li class='col4 fr'>
+			<a href='{{site.baseurl}}/footsteps'>
+				<span class='logo footsteps transition'></span>
+				<p>Footsteps</p>
+			</a>
+		</li>
+		<li class='col5'>
+			<a href='{{site.baseurl}}/mechaniques'>
+				<span class='logo mechaniques transition'></span>
+				<p>Mechaniques</p>
+			</a>
+		</li>
+		<li class='col4 fr'>
+			<a href='{{site.baseurl}}/wildcard'>
+				<span class='logo wildcard transition'></span>
+				<p>Wildcard</p>
+			</a>
+		</li>
+	</ul>
+</div>

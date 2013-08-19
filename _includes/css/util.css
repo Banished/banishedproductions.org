@@ -86,12 +86,11 @@ table { border-collapse: collapse; border-spacing:0; }
 ------------------------------------------------------- */
 .pad1    { padding:10px; }
 .pad2    { padding:20px; }
-.pad21h  { padding:10px 20px; }
+.pad2w   { padding:20px 0; }
 .pad2h   { padding:0 20px; }
 .pad4    { padding:40px; }
-.pad4h   { padding-left:40px; padding-right:40px; }
-.pad8    { padding:80px 40px; }
-.pad4c   { padding:40px; }
+.pad4h   { padding:0 40px;}
+.pad8    { padding:80px;}
 
 /* Transition
 ------------------------------------------------------- */
