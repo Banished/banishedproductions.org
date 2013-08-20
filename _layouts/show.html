@@ -6,16 +6,6 @@ layout: default
 	<h1 class='title'><span>{{page.title}}</span><a class='icon {{page.categories}}' href='{{site.baseurl}}/{{page.categories}}'></a></h1>
 	<h3 class='subtitle'>{{page.subtitle}}</h3>
 </section>
-<!-- <section class='col5'>
-	{% if page.venue %}
-		{% include venue.html %}
-		{% for post in site.categories%}
-		{% if post.categories contains 'venue' and post.categories contains show %}
-			{{post.content | markdownify}}
-		{% endif %}
-		{% endfor %}
-	{% endif %}
-</section> -->
 <section class='show-summary col12 pad2w cf'>
 	<div class='col5 intro'>
 		{{content}}

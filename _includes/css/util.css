@@ -88,8 +88,8 @@ table { border-collapse: collapse; border-spacing:0; }
 .pad2    { padding:20px; }
 .pad2w   { padding:20px 0; }
 .pad2h   { padding:0 20px; }
-.pad4    { padding:40px; }
-.pad4h   { padding:0 40px;}
+.pad24h  { padding:20px 40px;}
+.pad4    { padding:40px;}
 .pad8    { padding:80px;}
 
 /* Transition
