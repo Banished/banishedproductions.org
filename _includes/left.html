@@ -1,21 +1,16 @@
-<style>
-.newsletter .temp {
-  
-}
-</style>
 <a href='{{site.baseurl}}/' class='logo banished'></a>
 <nav class='pad2w cf'>
-<a href='#' class='about transition'>About</a>
-<ul class='pad2w social'>
-  <li><a href='https://www.facebook.com/banishedproductions' target='_blank' class='icon facebook transition'></a></li>
-  <li><a href='https://twitter.com/banishedpdtns' target='_blank' class='icon twitter transition'></a></li>
-  <li><a href='http://vimeo.com/user1744259' target='_blank' class='icon vimeo transition'></a></li>
-  <li><a href='http://www.flickr.com/photos/60776064@N02/sets/' target='_blank' class='icon flickr transition'></a></li>
-</ul>
+  <a href='#' class='about transition'>About</a>
+  <ul class='pad2w social'>
+    <li><a href='https://www.facebook.com/banishedproductions' target='_blank' class='icon facebook transition'></a></li>
+    <li><a href='https://twitter.com/banishedpdtns' target='_blank' class='icon twitter transition'></a></li>
+    <li><a href='http://vimeo.com/user1744259' target='_blank' class='icon vimeo transition'></a></li>
+    <li><a href='http://www.flickr.com/photos/60776064@N02/sets/' target='_blank' class='icon flickr transition'></a></li>
+  </ul>
 </nav>
 <div class='connect'>
   <div class='featured'>
-    <h3>What is happening</h3>
+    <h4>What is happening</h4>
     {% for post in site.posts %}
     {% if post.categories contains 'featured' and post.categories contains 'current'%}
       {{post.content | markdownify}}
@@ -23,10 +18,12 @@
     {% endfor %}
   </div>
   <div class='newsletter'>
-    <h3>Hear from us</h3>
+    <h4>Hear from us</h4>
     <div class='temp'></div>
   </div>
   <div class='donate'>
-    <a href='https://www.fracturedatlas.org/site/fiscal/profile?id=1989'><h3>Support us &#10084;</h3></a>
+    <a href='https://www.fracturedatlas.org/site/fiscal/profile?id=1989'>
+      <h4>Support us</h4>
+    </a>
   </div>
 </div>

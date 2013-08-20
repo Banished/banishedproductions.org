@@ -45,7 +45,7 @@ h3 {
 
 h4, h5 {
   font-size:15px;
-  margin-bottom:0;
+  margin:10px 0;
   line-height:1.67em;
   }
 
@@ -267,6 +267,7 @@ nav .social .icon.facebook {background-position: 0px -320px;}
 nav .social .icon.twitter {background-position:-50px -320px;}
 nav .social .icon.vimeo {background-position:-100px -320px;}
 nav .social .icon.flickr {background-position:-150px -320px;}
+
 /* big logos */
 .logo.banished {
   width:152px;
@@ -326,6 +327,16 @@ footer ul li{
   text-transform:uppercase;
   font-size:22px;
 }
+.artillery {
+  position:absolute;
+  width:170px;
+  height:90px;
+  background-position:0 -380px;
+  margin:220px 40%;
+}
+.artillery:hover {
+  background-position:0 -480px;
+}
 .main-outer {
   position:relative;
   padding:40px 0;
@@ -351,7 +362,7 @@ ul.main li:nth-child(2){
   margin:-90px 15% 0;
 }
 ul.main li:nth-child(3){
-  margin:130px 1% -80px;
+  margin:260px 1% -80px; /*margin-top decides the height of the ul*/
 }
 ul.main li:nth-child(3) p{
   padding-right:20px;
@@ -371,18 +382,46 @@ ul.main li a:hover p:after {
   position:absolute;
   display:inline-block;
   margin:0 -15px;
-  color:#d3d3d3;
+  color:#ed145a;
 }
 ul.main li a:hover p:after {
   position:relative;
   margin-left:2px;
   content:'❜';
 }
-/* featured */
-ul.featured h2 {
-  font-weight:700;
-  color:#ed145a;
-  border-bottom:1px dotted #ed145a;
+/* left */
+.left h4:before {
+  content:'♡';
+  padding-right:10px;
+  font-size:12px;
+}
+.featured,
+.newsletter,
+.donate {
+  margin:0 0 20px 0;
+}
+.featured p {
+  font-size:15px;
+}
+.newsletter .temp {
+  width:75%;
+  margin-left:25%;
+  height:30px;
+  padding:10px;
+  border:1px solid #ed145a;
+  border-radius: 3px
+}
+.newsletter .temp:before {
+  content: 'your email';
+  position: absolute;
+  width: 50px;
+  display: block;
+  margin: -16px 0 0 -62px;
+  color: #ed145a;
+  text-transform: uppercase;
+  font-size: 11px;
+  font-weight: 700;
+  line-height: 18px;
 }
 /* show and series
 ------------------------------------------------------- */

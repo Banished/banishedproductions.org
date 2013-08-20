@@ -25,8 +25,8 @@ In September, we launched our first set of Dupont Circle mass walks on:
 - SA 10/6: 6:00PM / 7:00PM
 - SU 10/7: 6:00PM / 7:00PM
 
+----
 
-----------
 ### Press
 
 [Press Release](http://www.banishedproductions.org/wp-content/uploads/2012/06/the-circle-PRESS-RELEASE-061512.pdf)
