@@ -85,17 +85,8 @@ prose:
         field:
           element: "hidden"
           value: "instructions"
-      - name: "categories"
+    _posts/archive:
+      - name: "tags"
         field:
-          element: "select"
-          label: "Select a series"
-          placeholder: "Default"
-          options:
-            - name: "footsteps"
-              value: "footsteps"
-            - name: "mechaniques"
-              value: "mechaniques"
-            - name: "tactile"
-              value: "tactile"
-            - name: "wildcard"
-              value: "wildcard"
+          element: "hidden"
+          value: "archive"

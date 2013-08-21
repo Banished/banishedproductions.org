@@ -1,8 +1,6 @@
 ---
-categories:
-- walk with me
 tags:
-- past
+- archive
 ---
 ### Press
 

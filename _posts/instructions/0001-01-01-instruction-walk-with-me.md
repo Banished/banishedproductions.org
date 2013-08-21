@@ -1,6 +1,4 @@
 ---
-categories:
-- walk with me
 tags:
 - instruction
 ---
