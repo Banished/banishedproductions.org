@@ -73,8 +73,8 @@ prose:
           options:
             - name: "instructions"
               value: "instructions"
-            - name: "venue"
-              value: "venue"
+            - name: "archive"
+              value: "archive"
     _posts/series:
       - name: "layout"
         field:
