@@ -5,7 +5,7 @@ published: false
 
 **Venue**
 1409 Playbill Cafe
-1409 14th Street NW DC (map)
+1409 14th Street NW DC ([map](http://maps.google.com/maps?hl=en&client=firefox-a&ie=UTF8&q=1409+playbill+cafe+dc&fb=1&gl=us&hq=1409+playbill+cafe&hnear=District+of+Columbia&cid=0,0,8770417162173237016&ei=cI7MTJ6MEMGAlAfcxbXmCA&ved=0CBUQnwIwAA&ll=38.912007,-77.03182&spn=0.004992,0.016265&z=16&iwloc=A))
 
 **Times & Tickets**
 Wed, Jul 19, 7pm (Invited Dinner Preview)Thu, Jul 20: 7:30pm
