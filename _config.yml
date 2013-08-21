@@ -50,22 +50,22 @@ prose:
         field:
           element: "textarea"
           label: "Artistic Collaborators"
-          value: "- Jane Doe | Concept "
+          value: ""
       - name: "voices"
         field:
           element: "textarea"
           label: "Voices by"
-          value: "- J. Belinski"
+          value: ""
       - name: "performers"
         field:
           element: "textarea"
           label: "Performers"
-          value: "- Tao Futumaro"
-      - name: "thanks"
+          value: ""
+      - name: ""
         field:
           element: "textarea"
           label: "Many Thanks To"
-          value: "- Gelato gelato!"
+          value: ""
       - name: "tags"
         field:
           element: "multiselect"
