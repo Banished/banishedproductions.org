@@ -1,5 +1,5 @@
 ---
-tags: archive
+categories: archive
 published: false
 ---
 

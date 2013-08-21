@@ -25,23 +25,6 @@ layout: default
 </section>
 <section class='archive'>
 	<div class='archive-item col12 cf'>
-	{% if page.tags contains 'archive' %}
-		<p class='past-summary'>This is a past event.
-			<a id='expand' href='#'>See archived show information <span>→</span></a>
-		</p>
-		<div class='secondary col10 pad4 hide'>
-			{% for post in site.posts %}
-
-			{% assign downcaseTitle = post.title | downcase %}
-
-			{% if post.tags contains 'archive' and downcaseTitle contains show %}
-			{{post.content | markdownify}}
-			{% endif %}
-			{% endfor %}
-		</div>
-	{% endif %}
-	</div>
-	<div class='archive-item col12 cf'>
 	{% if page.tags contains 'instruction' %}
 		<p class='past-summary'>Interested in recreating the experience?
 			<a id='expand' href='#'>Check out the instructions <span>→</span></a>
@@ -51,7 +34,24 @@ layout: default
 
 			{% assign downcaseTitle = post.title | downcase %}
 
-			{% if post.tags contains 'instruction' and downcaseTitle contains show %}
+			{% if post.categories contains 'instruction' and downcaseTitle contains show %}
+			{{post.content | markdownify}}
+			{% endif %}
+			{% endfor %}
+		</div>
+	{% endif %}
+	</div>
+	<div class='archive-item col12 cf'>
+	{% if page.tags contains 'archive' %}
+		<p class='past-summary'>This is a past event.
+			<a id='expand' href='#'>See archived show information <span>→</span></a>
+		</p>
+		<div class='secondary col10 pad4 hide'>
+			{% for post in site.posts %}
+
+			{% assign downcaseTitle = post.title | downcase %}
+
+			{% if post.categories contains 'archive' and downcaseTitle contains show %}
 			{{post.content | markdownify}}
 			{% endif %}
 			{% endfor %}

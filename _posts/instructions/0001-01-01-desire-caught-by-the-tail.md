@@ -1,5 +1,5 @@
 ---
-tags: instructions
+categories: instructions
 published: false
 ---
 

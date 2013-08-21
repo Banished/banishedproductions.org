@@ -1,6 +1,5 @@
 ---
-tags:
-- archive
+categories: archive
 ---
 ### Press
 

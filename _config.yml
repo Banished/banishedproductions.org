@@ -81,12 +81,12 @@ prose:
           element: "hidden"
           value: "series"
     _posts/instructions:
-      - name: "tags"
+      - name: "categories"
         field:
           element: "hidden"
           value: "instructions"
     _posts/archive:
-      - name: "tags"
+      - name: "categories"
         field:
           element: "hidden"
           value: "archive"
