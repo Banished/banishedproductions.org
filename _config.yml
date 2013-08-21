@@ -75,6 +75,24 @@ prose:
               value: "instructions"
             - name: "venue"
               value: "venue"
+    _posts/instuctions:
+      - name: "tags"
+        field:
+          element: "hidden"
+          value:"instructions"
+      - name: "categories"
+          element: "select"
+          label: "Select a series"
+          placeholder: "Default"
+          options:
+            - name: "footsteps"
+              value: "footsteps"
+            - name: "mechaniques"
+              value: "mechaniques"
+            - name: "tactile"
+              value: "tactile"
+            - name: "wildcard"
+              value: "wildcard"
     _posts/series:
       - name: "layout"
         field:

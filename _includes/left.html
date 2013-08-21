@@ -12,7 +12,7 @@
   <div class='featured'>
     <h4>What is happening</h4>
     {% for post in site.posts %}
-    {% if post.categories contains 'featured' and post.categories contains 'current'%}
+    {% if post.categories contains 'featured' and post.tags contains 'current'%}
       {{post.content | markdownify}}
     {% endif %}
     {% endfor %}

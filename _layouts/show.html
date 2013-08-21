@@ -31,7 +31,7 @@ layout: default
 		</p>
 		<div class='secondary col10 pad4 hide'>
 			{% for post in site.posts %}
-			{% if post.categories contains 'past' and post.categories contains show %}
+			{% if post.tags contains 'past' and post.categories contains show %}
 			{{post.content | markdownify}}
 			{% endif %}
 			{% endfor %}
@@ -45,7 +45,7 @@ layout: default
 		</p>
 		<div class='secondary col10 pad4 hide'>
 			{% for post in site.posts %}
-			{% if post.categories contains 'instruction' and post.categories contains show %}
+			{% if post.tags contains 'instruction' and post.categories contains show %}
 			{{post.content | markdownify}}
 			{% endif %}
 			{% endfor %}

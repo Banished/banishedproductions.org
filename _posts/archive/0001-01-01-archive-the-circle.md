@@ -1,7 +1,8 @@
 ---
 categories:
-- past
 - the circle
+tags:
+- past
 ---
 **When scheduled, walking tours will meet/depart from the Q St exit of the Dupont Circle Metro (ground level). Self-guided tours also begin here. 1525 20th St. NW DC**
 

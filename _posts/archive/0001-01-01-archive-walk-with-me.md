@@ -1,7 +1,8 @@
 ---
 categories:
-- past
 - walk with me
+tags:
+- past
 ---
 ### Press
 

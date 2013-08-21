@@ -1,7 +1,8 @@
 ---
-categories: 
-- instruction
+categories:
 - the circle
+tags:
+- instruction
 ---
 **Step 1: [Purchase the Audiowalk file from bandcamp](http://banishedproductions.bandcamp.com/track/the-circle-dupont)**
 Drop the mp3 file into iTunes or your preferred music app and and make sure the track ends up in your ipod/mp3 player.
