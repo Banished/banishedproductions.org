@@ -58,12 +58,12 @@ layout: default
 </section>
 <section class='archive'>
 	<div class='archive-item col12 cf'>
-	{% if page.tags contains 'instruction' %}
+	{% if page.tags contains 'instructions' %}
 		<p class='past-summary'>Interested in recreating the experience?
 			<a id='expand' href='#'>Check out the instructions <span>→</span></a>
 		</p>
 		<div class='secondary col10 pad4 hide'>
-			{% for post in site.categories.instruction %}
+			{% for post in site.categories.instructions %}
 			{% assign downcaseTitle = post.title | downcase %}
 			{% if downcaseTitle contains show %}
 			{{post.content | markdownify}}

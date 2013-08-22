@@ -61,7 +61,7 @@ prose:
           element: "textarea"
           label: "Performers"
           value: ""
-      - name: ""
+      - name: "thanks"
         field:
           element: "textarea"
           label: "Many Thanks To"
@@ -75,6 +75,8 @@ prose:
               value: "instructions"
             - name: "archive"
               value: "archive"
+            - name: "current"
+              value: "current"
     _posts/series:
       - name: "layout"
         field:
@@ -103,10 +105,12 @@ prose:
       - name: "map"
         field:
           element: "text"
+          label: "Map Id"
           value: ""
       - name: "image"
         field:
           element: "image"
+          label: "Image url"
           value: ""
       - name: "tags"
         field:
