@@ -1,11 +1,22 @@
 ---
 layout: show
 published: false
-categories: footsteps
-collaborators: null
+categories: mechaniques
+collaborators: 
+  - "Niell DuVal | Design & Fabrication"
+  - "Carmen C. Wong | Project Concept & Art"
+  - "Wan Chun Wu | Production Assistance"
 voices: null
 performers: null
-thanks: null
+thanks: 
+  - CityBlossoms
+  - Lola Bloom
+  - Rebecca Lemos
+  - Gab Schneider
+  - Barrett Jones
+  - Max Menna
+  - Martin Moulton
+subtitle: shadows in the garden
 ---
 
 
@@ -15,3 +26,4 @@ This project was commissioned by CityBlossoms – an urban gardening non-profit 
 
 April 2-24, 2010
 Fri-Sun: 8pm-10pm
+Poster
