@@ -24,3 +24,8 @@ flickr: "72157626302590114"
 ---
 
 Made entirely of found and salvaged materials, _Ballades Mechanique (ver 1.0)_ is a Rube Goldberg-inspired machine that fashions an individual sensory experience of 7 of 365 plays by Suzan-Lori Parks’s _365days/365plays_ collection. The user selects a story, thus activating the machine and the experience. The plays are performed with the assistance of digital video and image stills and are re-imagined with animations and puppets, creating an aural/visual accompaniment to Parks’ rhythmically distinct and intensely succinct writing.
+
+Oct 8-28, 2007
+Cafe Hours: M-F 7a-9p, Sa 7:30a-6p, Su 9a-5p
+Postcard
+Press Release
