@@ -1,10 +1,43 @@
 ---
 layout: default
 ---
+<style>
+.show-venue {
+	padding-bottom:20px;
+}
+.hero,
+#map {
+	overflow:hidden;
+	height:250px;
+}
+.hero img{
+	width:100%;
+}
+#map {
+	border:1px solid #d3d3d3;
+}
+</style>
 {% assign show = page.title | downcase %}
 <section class='show-name col12'>
 	<h1 class='title'><span>{{page.title}}</span><a class='icon {{page.categories}}' href='{{site.baseurl}}/{{page.categories}}'></a></h1>
 	<h3 class='subtitle'>{{page.subtitle}}</h3>
+</section>
+<section class='show-venue col12 cf'>
+	{% for post in site.categories.current %}
+	{% assign downcaseTitle = post.title | downcase %}
+	{% if downcaseTitle contains show %}
+	{% assign pageMap = post.map %}
+	<div class='col12 pad2w cf'>
+		{% if post.map and post.tags contains 'image' %}
+		<div class='col8 hero'><img src='{{post.image}}'/></div>
+		<div class='col4 pad2' id='map'></div>
+		{% else  %}
+		<div class='col12 pad2' id='map'></div>
+		{% endif %}
+	</div>
+	<div class='col12 cf'>{{post.content | markdownify}}</div>
+	{% endif %}
+	{% endfor %}
 </section>
 <section class='show-summary col12 pad2w cf'>
 	<div class='col5 intro'>
@@ -30,11 +63,9 @@ layout: default
 			<a id='expand' href='#'>Check out the instructions <span>→</span></a>
 		</p>
 		<div class='secondary col10 pad4 hide'>
-			{% for post in site.posts %}
-
+			{% for post in site.categories.instruction %}
 			{% assign downcaseTitle = post.title | downcase %}
-
-			{% if post.categories contains 'instruction' and downcaseTitle contains show %}
+			{% if downcaseTitle contains show %}
 			{{post.content | markdownify}}
 			{% endif %}
 			{% endfor %}
@@ -47,11 +78,9 @@ layout: default
 			<a id='expand' href='#'>See archived show information <span>→</span></a>
 		</p>
 		<div class='secondary col10 pad4 hide'>
-			{% for post in site.posts %}
-
+			{% for post in site.posts.archive %}
 			{% assign downcaseTitle = post.title | downcase %}
-
-			{% if post.categories contains 'archive' and downcaseTitle contains show %}
+			{% if downcaseTitle contains show %}
 			{{post.content | markdownify}}
 			{% endif %}
 			{% endfor %}
@@ -69,15 +98,5 @@ layout: default
 {% if page.flickr %}
 	{% include js/photos.js %}
 {% endif %}
-$('a#expand').click(function(e){
-	e.preventDefault();
-	$(this).toggleClass('expanded');
-	if ($(this).hasClass('expanded')) {
-		$(this).find('span').html('↓');
-		$(this).parent().next().removeClass('hide');
-	} else {
-		$(this).find('span').html('→');
-		$(this).parent().next().addClass('hide');
-	}
-});
+loadMap("{{pageMap}}");
 </script>

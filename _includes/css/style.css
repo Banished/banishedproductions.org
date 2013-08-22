@@ -263,10 +263,10 @@ nav .social .icon {
   width:28px;
   height:28px;
 }
-nav .social .icon.facebook {background-position: 0px -320px;}
-nav .social .icon.twitter {background-position:-50px -320px;}
-nav .social .icon.vimeo {background-position:-100px -320px;}
-nav .social .icon.flickr {background-position:-150px -320px;}
+nav .social .icon.facebook {background-position: 0px -720px;}
+nav .social .icon.twitter {background-position:-50px -720px;}
+nav .social .icon.vimeo {background-position:-100px  -720px;}
+nav .social .icon.flickr {background-position:-150px -720px;}
 
 /* big logos */
 .logo.banished {
@@ -274,24 +274,24 @@ nav .social .icon.flickr {background-position:-150px -320px;}
   height:76px;
 }
 .logo.tactile {
-  background-position:0px -94px;
-  width:90px;
-  height:180px;
+  background-position:0px -100px;
+  width:150px;
+  height:350px;
 }
 .logo.footsteps {
-  background-position:-112px -94px;
-  width:110px;
-  height:80px;
+  background-position:-265px -110px;
+  width:300px;
+  height:210px;
 }
 .logo.mechaniques {
-  background-position:-264px -94px;
-  width:140px;
-  height:120px;
+  background-position:-20px -480px;
+  width:310px;
+  height:220px;
 }
 .logo.wildcard {
-  background-position:-428px -100px;
-  width:120px;
-  height:120px;
+  background-position:-365px -415px;
+  width:300px;
+  height:290px;
 }
 /* small subnav logos on show pages*/
 .title .icon {
@@ -337,42 +337,8 @@ footer ul li{
 .artillery:hover {
   background-position:0 -480px;
 }
-.main-outer {
-  position:relative;
-  padding:40px 0;
-}
-ul.main {
-  border:1px dotted #d3d3d3;
-  padding:40px;
-}
-ul.main li {
-  background:#fff;
-}
-ul.main li a {
-  display:block;
-  padding-left:40px;
-}
-ul.main li:first-child a {
-  padding-left:0;
-}
-ul.main li:first-child {
-  margin:-80px -60px 0;
-}
-
-ul.main li:nth-child(2){
-  margin:-90px 15% 0;
-}
-ul.main li:nth-child(3){
-  margin:300px 1% -80px; /*margin-top decides the height of the ul*/
-}
-ul.main li:nth-child(3) p{
-  padding-right:20px;
-}
-ul.main li:last-child {
-  margin:60px -20% -75px;
-}
 ul.main li a p{
-  font-family:'Bpscript';
+  /*font-family:'Bpscript';*/
   padding:20px 2px;
   font-size:28px;
   font-weight:300;
@@ -392,7 +358,7 @@ ul.main li a:hover p:after {
 }
 /* left */
 .left h4:before {
-  content:'♡';
+  content:'●';
   padding-right:10px;
   font-size:12px;
 }
@@ -453,10 +419,9 @@ ul.main li a:hover p:after {
 .show-name {
   padding:10px 0;
 }
-.show-name,
 .show-summary,
 .archive {
-  border-bottom:1px dotted #d3d3d3;
+  border-top:1px dotted #d3d3d3;
 }
 .intro,
 .archive p {

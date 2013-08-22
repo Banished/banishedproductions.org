@@ -1,15 +1,10 @@
 ---
-published: false
+layout: show
 categories: wildcard
-collaborators: 
-  - "Jane Doe | Concept"
 voices: 
-  - J. Belinski
 performers: 
-  - Tao Futumaro
 thanks: 
-  - "Gelato gelato!"
-subtitle: Taste with your eyes. Feast on Desire. The Surreal beckons.
+subtitle: "Taste with your eyes. Feast on Desire. The Surreal beckons."
 flickr: "72157626179409359"
 vimeo: "4805994"
 tags: 

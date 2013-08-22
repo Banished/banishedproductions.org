@@ -9,14 +9,46 @@
   <link rel='shortcut icon' href='{{site.baseurl}}/img/favicon.ico' type='image/x-icon' />
   <link href='http://fonts.googleapis.com/css?family=Source+Sans+Pro:200,300,400,600,700,900,300italic,400italic|Buenard:400,700|Dawning+of+a+New+Day' rel='stylesheet' type='text/css'>
   <link href='{{site.baseurl}}/site.css' rel='stylesheet' type='text/css'>
+  <link href='//api.tiles.mapbox.com/mapbox.js/v1.3.1/mapbox.css' rel='stylesheet' />
+  <!--[if lte IE 8]>
+  <link href='//api.tiles.mapbox.com/mapbox.js/v1.3.1/mapbox.ie.css' rel='stylesheet' />
+  <![endif]-->
+  <script src='//api.tiles.mapbox.com/mapbox.js/v1.3.1/mapbox.js'></script>
   <script src='{{site.baseurl}}/site.js'></script>
 </head>
 <body>
 <section class='col12 pad24h cf'>
-  <div class='col2 left'>
-    {% include left.html %}
+  <div class='col3 left'>
+    <a href='{{site.baseurl}}/' class='logo banished'></a>
+    <nav class='pad2w cf'>
+      <a href='#' class='about transition'>About</a>
+      <ul class='pad2w social'>
+        <li><a href='https://www.facebook.com/banishedproductions' target='_blank' class='icon facebook transition'></a></li>
+        <li><a href='https://twitter.com/banishedpdtns' target='_blank' class='icon twitter transition'></a></li>
+        <li><a href='http://vimeo.com/user1744259' target='_blank' class='icon vimeo transition'></a></li>
+        <li><a href='http://www.flickr.com/photos/60776064@N02/sets/' target='_blank' class='icon flickr transition'></a></li>
+      </ul>
+    </nav>
+    <div class='connect'>
+      <div class='featured'>
+        <h4>What is happening</h4>
+        <!-- getting the most recent featured post -->
+        {% for post in site.categories.featured limit:1 %}
+          {{post.content | markdownify}}
+        {% endfor %}
+      </div>
+      <div class='donate'>
+        <a href='https://www.fracturedatlas.org/site/fiscal/profile?id=1989'>
+          <h4>Support us</h4>
+        </a>
+      </div>
+      <div class='newsletter'>
+        <h4>Hear from us</h4>
+        <div class='temp'></div>
+      </div>
+    </div>
   </div>
-  <div class='col9 margin1'>
+  <div class='col8 margin0'>
     {{content}}
   </div>
 </section>
