@@ -10,13 +10,13 @@ baseurl:
 #prose
 prose:
   rooturl: "_posts"
-  media: 'assets'
+  media: "assets"
   metadata:
     _posts/shows:
       - name: "layout"
         field:
-          element:"hidden"
-          value:"show"
+          element: "hidden"
+          value: "show"
       - name: "subtitle"
         field:
           element: "text"
@@ -90,3 +90,28 @@ prose:
         field:
           element: "hidden"
           value: "archive"
+    _posts/featured:
+      - name: "categories"
+        field:
+          element: "hidden"
+          value: "featured"
+    _posts/current:
+      - name: "categories"
+        field:
+          element: "hidden"
+          value: "current"
+      - name: "map"
+        field:
+          element: "text"
+          value: ""
+      - name: "image"
+        field:
+          element: "image"
+          value: ""
+      - name: "tags"
+        field:
+          element: "select"
+          label: "If there is an image, select the image tag"
+          options:
+            - name: "image"
+              value: "image"

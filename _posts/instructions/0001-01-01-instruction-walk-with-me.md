@@ -1,5 +1,5 @@
 ---
-categories: instruction
+categories: instructions
 ---
 Starting point: Columbia Heights MetroNorth-bound side exit of 14th Street NW (in front of the BB&T Bank)
 _Please note: This is not a historical or guided walk._
