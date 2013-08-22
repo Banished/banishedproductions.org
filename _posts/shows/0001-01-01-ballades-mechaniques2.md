@@ -16,9 +16,9 @@ thanks:
   - Barrett Jones
   - Max Menna
   - Martin Moulton
-subtitle: shadows in the garden
+subtitle: Shadows in the garden
+flickr: "72157626302664912"
 ---
-
 
 Inspired by the success of _Ballades Mechanique (ver 1.0)_, Version 2.0 was created to continue banished?’s exploration into finding new narrative forms, this time with shadowplay.
 
