@@ -11,10 +11,11 @@ SA 7/22: 7:30pm
 SU 7/20: 2:00pm & 7:00pm
 
 ##Press
-**Press Release**
-**Program**
-**Poster** 
-**Podcast**
+**[Press Release](https://www.dropbox.com/s/ro7gsclnwdx1n2c/DesireCaughtbytheTail-PressRelease.pdf)**
+**[Program](https://www.dropbox.com/s/2indzmf8qc58d3s/DesireCaughtbytheTail-Program.pdf)**
+**[Poster](https://www.dropbox.com/s/ga5un5qh1en1vf9/DesireCaughtbytheTail-poster.pdf)** 
+**[Podcast](https://www.dropbox.com/s/54d9kwyoqsvcvsm/Desire-Podcast-128.mp3)**
+
 **Other Reviews**
 “Director Carmen C. Wong wisely decides to emphasize the sensual elements of the play, hugely aided by the choreography of Meisha Bosma and Nicole Phillips, two astonishing young dancers who also appear as silent characters.” -DC Theatre Reviews
 
