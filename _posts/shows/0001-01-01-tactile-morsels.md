@@ -1,6 +1,6 @@
 ---
 layout: show
-published: false
+published: true
 categories: tactile
 collaborators: 
   - "“Niell DuVal | Design & Fabrication”"
