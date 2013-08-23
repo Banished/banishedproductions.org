@@ -1,4 +1,3 @@
-/* Quicksand */
 @font-face {
     font-family: 'Quicksand';
     src: url('/fonts/quicksand-light-webfont.eot');
@@ -21,11 +20,22 @@
 }
 @font-face {
     font-family: 'Quicksand';
-    src: url('quicksand-italic-webfont.eot');
-    src: url('quicksand-italic-webfont.eot?#iefix') format('embedded-opentype'),
-         url('quicksand-italic-webfont.woff') format('woff'),
-         url('quicksand-italic-webfont.ttf') format('truetype'),
-         url('quicksand-italic-webfont.svg#quicksanditalic') format('svg');
+    src: url('fonts/quicksand-italic-webfont.eot');
+    src: url('fonts/quicksand-italic-webfont.eot?#iefix') format('embedded-opentype'),
+         url('fonts/quicksand-italic-webfont.woff') format('woff'),
+         url('fonts/quicksand-italic-webfont.ttf') format('truetype'),
+         url('fonts/quicksand-italic-webfont.svg#quicksanditalic') format('svg');
     font-weight: 400;
     font-style: italic;
+}
+@font-face {
+    font-family: 'Ubuntu Titling';
+    src: url('fonts/ubuntutitling-bold-webfont.eot');
+    src: url('fonts/ubuntutitling-bold-webfont.eot?#iefix') format('embedded-opentype'),
+         url('fonts/ubuntutitling-bold-webfont.woff') format('woff'),
+         url('fonts/ubuntutitling-bold-webfont.ttf') format('truetype'),
+         url('fonts/ubuntutitling-bold-webfont.svg#ubuntu_titlingbold') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
 }
