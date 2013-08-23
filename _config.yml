@@ -49,6 +49,7 @@ prose:
       - name: "collaborators"
         field:
           element: "textarea"
+          placeholder: "Name|Role"
           label: "Artistic Collaborators"
           value: ""
       - name: "voices"
