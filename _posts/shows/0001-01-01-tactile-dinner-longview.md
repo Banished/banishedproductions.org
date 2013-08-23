@@ -8,29 +8,34 @@ collaborators:
   - "Susanna Oenterodottir | Stage Manager"
   - "“Ayodamola Okunseinde | Videographer/New Media Artist”"
   - "“Samantha Vick-McGill | Head Chef & Costume Assistance”"
-  - "Josh Chambers | Chef"
-  - "Mark DeCelles | Sous Chef"
+  - "Lisa Hviding | Chef"
+  - "Greg Grillot | Sous Chef and Candy Maker"
   - "Glynnis Vance | Costume Consultant"
   - "“Karol Urban | Audio for Video and “Milk Croon” Music (voice by Kay DuVal)”"
-  - "“Chebonne Littlefield | “Meowinetti Mix” Music”"
-  - "“6 |“Mystery in the Kitchen” Music”"
+  - "Chebonne Littlefield | “Meowinetti Mix” Music”"
+  - "“6 | “Mystery in the Kitchen” Music”"
 voices: null
 performers: 
-  - "“Stephanie Davio - Costume Assistance & Head Servertron”"
-  - "Ken Hays - Marinetti"
-  - "“Melissa Krodman – Choreography & Servertron”"
-  - "“Carrie Monger – Choreography & Servertron”"
-  - "“Otis Ramsey-Zöe – Dramaturgy Assistance & Servertron”"
+  - "“Stephanie Davio | Costume Assistance & Head Servertron”"
+  - "Ken Hays | Marinetti"
+  - "“Melissa Krodman | Choreography & Servertron”"
+  - "“Carrie Monger | Choreography & Servertron”"
+  - "“Otis Ramsey-Zöe | Dramaturgy Assistance & Servertron”"
 thanks: 
-  - "“Garner’s Produce of Warsaw, VA”"
+  - “Atwater’s Bakery“
+  - Endless Summer Harvest
+  - Evensong Farm
+  - “Garner’s Produce”
+  - Gunpowder Bison
   - The Farm at Sunnyside
-  - "“Reid’s Orchards & Winery of Orrtanna, PA”"
-  - "“Meiyu Tsung | Marketing Assistance & Press Contact”"
-  - "Amy Cesal | Graphic Designer"
-  - "“Joseph Price | Webmaster & Box-Office Manager”"
-  - "Wanchun Wu | Production Assistant"
+  - "“Reid’s Orchards & Winery”"
+  - "“Sunnyside Farm & Orchards”"
+  - Alex Fawcett – Production Assistant
+  - Wanchun Wu – Production Assistant
+  - "Meiyu Tsung – Marketing Assistance & Press Contact"
+  - "Amy Cesal - Graphic Designer"
+  - "Joseph Price – Webmaster & Box-Office Manager"
   - "Laura Kellner | Kikkerland"
-  - Big Bear Cafe
   - Anna Blasco
   - Stacey Carlberg
   - Craig Huzway
@@ -38,9 +43,9 @@ thanks:
   - Alex Padro
   - Rick Pelasara
   - Robin Shuster
-  - "“Kathleen & Marty DuVal-Smith”"
+  - "Kathleen & Marty DuVal-Smith"
 subtitle: "A 15 course-meal for the senses at Long View Gallery"
-flickr: "72157635196148780"
+flickr: "72157635196091084"
 ---
 
 “It manages the rare trick in avant-garde performance of not taking itself too seriously, of embracing the audience rather than intentionally alienating it: think Top Chef hosted by Stephen Colbert.” -- [ReadySetDC](http://readysetdc.com/2010/05/grabbing-a-tactile-dinner-2/)
