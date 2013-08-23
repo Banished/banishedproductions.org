@@ -18,5 +18,5 @@ SA 10/20: 8:00pm
 SU 10/21: 2:00pm & 8:00pm  
 
 ##Press
-**Press Release**
-**Poster**
+**[Press Release](https://www.dropbox.com/s/lciiz5sl9gtyqxs/bobrauschenbergamerica-PressRelease.pdf)**
+**[Poster](https://www.dropbox.com/s/0zfgv33028vlsp2/bobrauschenbergamerica-poster.pdf)**
