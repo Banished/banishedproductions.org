@@ -1,6 +1,6 @@
 ---
 layout: show
-published: false
+published: true
 categories: wildcard
 collaborators: null
 voices: null
@@ -12,9 +12,6 @@ _Greenwood Follies & Other Old French Plays_ featured the world premiere of thre
 
 Posters and copies of the book “From Adam to Adam: Seven Old French Plays” (co-authored by John DuVal and Raymond Eichmann) from which the readings are culled, were available for sale by Pegasus Press.
 
-One night only 
-Mon, 10/17/2005 at 7pm 
-Free to the Public
-
-Press Release
-Program
+One night only: MO 10/17/2005 at 7:00pm (Free to the Public)
+**Press Release**
+**Program**
