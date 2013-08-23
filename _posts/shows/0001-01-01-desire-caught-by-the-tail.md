@@ -1,10 +1,7 @@
 ---
 layout: show
 categories: wildcard
-voices: 
-  - "Naomi Jacobson | The Cousin"
-  - "John Lescault | Round End"
-  - "Nikki Strong | Onion"
+voices: null
 performers: 
   - "Meisha Bosma | Anguish I"
   - "Frank Britton | Big Foot"
@@ -13,6 +10,9 @@ performers:
   - "Nicole Phillips | Anguish II"
   - "Otis Ramsey-Zoe | Bow-Wows"
   - "Allan von Schenkel | on Bass"
+  - "Naomi Jacobson | voice of The Cousin"
+  - "John Lescault | voice of Round End"
+  - "Nikki Strong | voice of Onion"
 thanks: 
   - Embassy of Spain
   - Tom Kochel Photography
