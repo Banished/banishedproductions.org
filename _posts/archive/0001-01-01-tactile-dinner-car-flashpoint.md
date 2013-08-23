@@ -1,6 +1,6 @@
 ---
 categories: archive
-published: false
+published: true
 ---
 
 **2011 Flashpoint Gallery Activated Performances **
