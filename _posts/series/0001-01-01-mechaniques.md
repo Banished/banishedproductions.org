@@ -1,6 +1,6 @@
 ---
 layout: series
-name: Banished Footsteps
+name: Ballades Mechaniques
 subtitle: "private narrative travels (through) public spaces"
 ---
 - [The circle](/footsteps/the-circle)

@@ -3,8 +3,8 @@ layout: default
 ---
 {% assign downcaseTitle = page.title | downcase %}
 <div class='col12 series-name'>
-	<h1 class='title'>{{page.title | capitalize }} Series</h1>
-	<h3 class='subtitle'>{{page.subtitle | capitalize }}</h3>
+	<h1 class='title'>{{page.name | capitalize }}</h1>
+	<p class='subtitle'>{{page.subtitle | capitalize }}</p>
 </div>
 <div class='col4 animated {{downcaseTitle}}'>
 	<img src='{{site.baseurl}}/img/animated/{{downcaseTitle}}.gif'>

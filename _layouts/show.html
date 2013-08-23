@@ -22,6 +22,7 @@ layout: default
 	<h1 class='title'><span>{{page.title}}</span><a class='icon {{page.categories}}' href='{{site.baseurl}}/{{page.categories}}'></a></h1>
 	<h3 class='subtitle'>{{page.subtitle}}</h3>
 </section>
+{% if page.tags contains 'current' %}
 <section class='show-venue col12 cf'>
 	{% for post in site.categories.current %}
 	{% assign downcaseTitle = post.title | downcase %}
@@ -39,6 +40,7 @@ layout: default
 	{% endif %}
 	{% endfor %}
 </section>
+{% endif %}
 <section class='show-summary col12 pad2w cf'>
 	<div class='col5 intro'>
 		{{content}}
@@ -59,8 +61,8 @@ layout: default
 <section class='archive'>
 	<div class='archive-item col12 cf'>
 	{% if page.tags contains 'instructions' %}
-		<p class='past-summary'>Interested in recreating the experience?
-			<a id='expand' href='#'>Check out the instructions <span>→</span></a>
+		<p class='past-summary'>
+			<a class='expand' href='#'>More about the experience <span>→</span></a>
 		</p>
 		<div class='secondary col10 pad4 hide'>
 			{% for post in site.categories.instructions %}
@@ -75,10 +77,10 @@ layout: default
 	<div class='archive-item col12 cf'>
 	{% if page.tags contains 'archive' %}
 		<p class='past-summary'>This is a past event.
-			<a id='expand' href='#'>See archived show information <span>→</span></a>
+			<a class='expand' href='#'>See archived show information <span>→</span></a>
 		</p>
 		<div class='secondary col10 pad4 hide'>
-			{% for post in site.posts.archive %}
+			{% for post in site.categories.archive %}
 			{% assign downcaseTitle = post.title | downcase %}
 			{% if downcaseTitle contains show %}
 			{{post.content | markdownify}}

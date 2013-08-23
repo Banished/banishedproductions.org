@@ -1,0 +1,22 @@
+<a href='{{site.baseurl}}/' class='logo banished'></a>
+<a href='#' class='about transition'>The Avant-pop Art of play</a>
+<ul class='connect'>
+  <li class='featured'>
+    <h3>What's happening</h3>
+    <!-- getting the most recent featured post -->
+    <div>
+    {% for post in site.categories.featured limit:1 %}
+      {{post.content | markdownify}}
+    {% endfor %}
+    </div>
+  </li>
+  <li class='mailchimp'>
+    <h3>Hear from us</h3>
+    <div class='mailchip-form'>{% include mailchimp.html%}</div>
+  </li>
+<!--   <li class='donate'>
+    <a href='https://www.fracturedatlas.org/site/fiscal/profile?id=1989'>
+    Support. Give. Play.
+    </a>
+  </li> -->
+</ul>

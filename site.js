@@ -15,15 +15,15 @@ var loadMap = function(mapId){
 };
 
 $(function(){
-	$('a#expand').click(function(e){
+	$('a.expand').click(function(e){
 		e.preventDefault();
 		$(this).toggleClass('expanded');
 		if ($(this).hasClass('expanded')) {
 			$(this).find('span').html('↓');
-			$(this).parent().next().removeClass('hide');
+			$(this).next().removeClass('hide');
 		} else {
 			$(this).find('span').html('→');
-			$(this).parent().next().addClass('hide');
+			$(this).next().addClass('hide');
 		}
 });
 })

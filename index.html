@@ -2,45 +2,69 @@
 layout: default
 ---
 <style>
-.front li:first-child {
-	margin-top:30px;
+.icon.artillery {
+  position:absolute;
+  right:25px;
+  width:210px;
+  height:110px;
+  background-position: -312px -700px;
 }
-.front li:nth-child(3){
-	margin-top:-50px;
-	padding-left:15%;
+.icon.artillery:hover {
+  background-position: -312px -807px;
+}
+ul.front {
+	padding-left:40px;
+}
+ul.front li:nth-child(2){
+	margin-top:-30px;
+}
+ul.front li:nth-child(3){
+	margin-top:-20px;
+	padding-left:18%;
 }
 .front li:last-child {
-	margin-top:-150px;
+	margin-top:-115px;
+}
+ul.front li a:hover p:before,
+ul.front li a:hover p:after {
+  content: '❛';
+  position:absolute;
+  display:inline-block;
+  margin:0 -15px;
+  color:#ff7d00;
+}
+ul.front li a:hover p:after {
+  position:relative;
+  margin-left:2px;
+  content:'❜';
 }
 </style>
-<div class='col12'>
-<!-- <div class='main-outer col11'> -->
-<!-- 	<h3 class='tagline'>the avant-pop art of play</h3>
-	<a href='#' class='icon artillery'></a> -->
-<ul class='front'>
-	<li class='col5'>
-		<a href='{{site.baseurl}}/tactile'>
-			<span class='logo tactile transition'></span>
-			<p>Tactile</p>
-		</a>
-	</li>
-		<li class='col7'>
-		<a href='{{site.baseurl}}/wildcard'>
-			<span class='logo wildcard transition'></span>
-			<p>Hybrid Wildcard</p>
-		</a>
-	</li>
-	<li class='col8'>
-		<a href='{{site.baseurl}}/footsteps'>
-			<span class='logo footsteps transition'></span>
-			<p>Footsteps</p>
-		</a>
-	</li>
-	<li class='col4'>
-		<a href='{{site.baseurl}}/mechaniques'>
-			<span class='logo mechaniques transition'></span>
-			<p>Mechaniques</p>
-		</a>
-	</li>
-</ul>
-</div>
+<!-- <div class='main-outer pad4 col12'> -->
+    <a href='#' class='icon artillery'></a>
+	<ul class='front'>
+		<li class='col5'>
+			<a href='{{site.baseurl}}/tactile'>
+				<span class='logo tactile transition'></span>
+				<p>Tactile</p>
+			</a>
+		</li>
+			<li class='col3'>
+			<a href='{{site.baseurl}}/hybrids'>
+				<span class='logo hybrids transition'></span>
+				<p>Hybrids</p>
+			</a>
+		</li>
+		<li class='col8'>
+			<a href='{{site.baseurl}}/footsteps'>
+				<span class='logo footsteps transition'></span>
+				<p>Footsteps</p>
+			</a>
+		</li>
+		<li class='col4'>
+			<a href='{{site.baseurl}}/mechaniques'>
+				<span class='logo mechaniques transition'></span>
+				<p>Mechaniques</p>
+			</a>
+		</li>
+	</ul>
+<!-- </div> -->

@@ -17,47 +17,32 @@
   <script src='{{site.baseurl}}/site.js'></script>
 </head>
 <body>
-<section class='col12 pad24h cf'>
+<section class='col12 pad4 cf'>
   <div class='col3 left'>
-    <a href='{{site.baseurl}}/' class='logo banished'></a>
-    <nav class='pad2w cf'>
-      <a href='#' class='about transition'>About</a>
-      <ul class='pad2w social'>
-        <li><a href='https://www.facebook.com/banishedproductions' target='_blank' class='icon facebook transition'></a></li>
-        <li><a href='https://twitter.com/banishedpdtns' target='_blank' class='icon twitter transition'></a></li>
-        <li><a href='http://vimeo.com/user1744259' target='_blank' class='icon vimeo transition'></a></li>
-        <li><a href='http://www.flickr.com/photos/60776064@N02/sets/' target='_blank' class='icon flickr transition'></a></li>
-      </ul>
-    </nav>
-    <div class='connect'>
-      <div class='featured'>
-        <h4>What is happening</h4>
-        <!-- getting the most recent featured post -->
-        {% for post in site.categories.featured limit:1 %}
-          {{post.content | markdownify}}
-        {% endfor %}
-      </div>
-      <div class='donate'>
-        <a href='https://www.fracturedatlas.org/site/fiscal/profile?id=1989'>
-          <h4>Support us</h4>
-        </a>
-      </div>
-      <div class='newsletter'>
-        <h4>Hear from us</h4>
-        <div class='temp'></div>
-      </div>
-    </div>
+    {% include left.html %}
   </div>
   <div class='col8 margin0'>
     {{content}}
   </div>
 </section>
 <footer class='col12 pad4 cf'>
-  <ul>
-    <li class='col1'>sponsor1</li>
-    <li class='col1'>sponsor2</li>
-    <li class='col1'>sponsor3</li>
-    <li class='col1'>sponsor4</li>
+<div class='col3 pad2w donate'>
+  <a href='https://www.fracturedatlas.org/site/fiscal/profile?id=1989'>
+    Support. Give. Play.
+  </a>
+</div>
+<div class='col4 margin1'>
+  <ul class='social'>
+    <li><a href='https://www.facebook.com/banishedproductions' target='_blank' class='icon facebook transition'></a></li>
+    <li><a href='https://twitter.com/banishedpdtns' target='_blank' class='icon twitter transition'></a></li>
+    <li><a href='http://vimeo.com/user1744259' target='_blank' class='icon vimeo transition'></a></li>
+    <li><a href='http://www.flickr.com/photos/60776064@N02/sets/' target='_blank' class='icon flickr transition'></a></li>
   </ul>
+</div>
+<div class='col4 sponsors'>
+  <div><img class='col3 pad1' src='{{site.baseurl}}/img/sponsors/culturaldc.jpg'></div>
+  <div><img class='col3 pad1' src='{{site.baseurl}}/img/sponsors/dccah.png'></div>
+  <div><img class='col3 pad1' src='{{site.baseurl}}/img/sponsors/tcg.gif'></div>
+</div>
 </footer>
 </body>

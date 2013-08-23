@@ -31,7 +31,7 @@ thanks:
 - "Sam Vick-McGill"
 tags:
 - instructions
-- current
+- archive
 ---
 The first of the new [banished? footsteps]({{site.baseurl}}/footsteps) series, Walk With Me takes you on a brisk tour of the Columbia Heights and Mount Pleasant neighborhoods in Washington, DC. Immerse yourself in the three stories of people who call this neighborhood home and be woven into the fabric of a living urban art adventure.
 
