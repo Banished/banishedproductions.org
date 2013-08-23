@@ -1,6 +1,6 @@
 ---
 categories: instructions
-published: false
+published: true
 ---
 
 _A Tactile Taste of Helsinki_ is an experiential performance dinner presented by Carmen C. Wong (Washington, D.C.) and architect/urban planner Sofia de Vocht (Helsinki) featuring dancer Beniamino Borghi. Adventurous diners and curious eaters of art, come be a part of a 7-course gastro-art performance that is part meal and part theatrical synaesthetic experience of Helsinki.
