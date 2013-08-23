@@ -1,6 +1,6 @@
 ---
 categories: archive
-published: false
+published: true
 ---
 
 ** 2007 Capital Fringe Performances** 
