@@ -3,8 +3,8 @@ categories: archive
 published: true
 ---
 
-**Project Brief**
-**Postcard**
+**[Project Brief](https://www.dropbox.com/s/pge5107p3ypl543/TactileAnacostiaBRIEF.pdf)**
+**[Postcard](https://www.dropbox.com/s/envqjwk2l66n10i/TA_POSTCARD_0602.pdf)**
 
 ## 2013 Tactile Anacostia Workshop Events
 **Workshop 1: Chester St Pickles **
