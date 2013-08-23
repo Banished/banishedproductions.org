@@ -1,6 +1,6 @@
 ---
 layout: show
-published: false
+published: true
 categories: mechaniques
 collaborators: null
 voices: null
