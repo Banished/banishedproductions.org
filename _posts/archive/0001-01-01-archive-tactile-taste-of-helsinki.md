@@ -3,7 +3,7 @@ categories: archive
 published: false
 ---
 
-**Program**
+**[Program](https://www.dropbox.com/s/yxc1kt7mjrsctey/TactileHelsinki-ProgramMenu.pdf)**
 
 **Performances on Nov 19, 2011 at Kohnta Workspace**
 15:00
