@@ -4,7 +4,7 @@ published: false
 ---
 
 **2006 Capital Fringe Performances**
-WE 7/19: 7pm (Invited Dinner Preview)
+WE 7/19: 7:00pm (Invited Dinner Preview)
 TH 7/20: 7:30pm
 FR 7/21: 7:30pm
 SA 7/22: 7:30pm
