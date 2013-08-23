@@ -17,7 +17,6 @@ Tickets to experience the culinary offerings during activation dates sold in 30-
 Special AEROTICKETS for a premium Futurist experience of the culinary offerings during activation days were offered. (A portion of which was tax-deductible.) 
 
 ##Press
-**Press Release**
-**Program**
-**Artnet Interview**
-http://www.artnet.com/magazineus/news/artnetnews/the-futurist-cookbook.asp
+**[Press Release](https://www.dropbox.com/s/37sttn1k3najx4j/TDC-FlashpointPressRelease.pdf)**
+**[Program](https://www.dropbox.com/s/z5peamig68vf4ey/TDCFlashpoint-Program.pdf)**
+**[Artnet Interview](http://www.artnet.com/magazineus/news/artnetnews/the-futurist-cookbook.asp)**
