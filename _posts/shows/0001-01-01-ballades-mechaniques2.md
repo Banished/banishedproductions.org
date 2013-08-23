@@ -16,4 +16,4 @@ This project was commissioned by CityBlossoms – an urban gardening non-profit 
 
 ** On display at the Marion Street Garden Apr 2-24, 2010**
 FR-SU: 8:00pm to 10:00pm
-**Poster**
+**[Poster](https://www.dropbox.com/s/ksfleifb8h1lna2/BM2-poster.pdf)**
