@@ -1,26 +1,26 @@
 ---
 layout: show
-published: false
+published: true
 categories: tactile
 collaborators: 
-  - "“Carmen C. Wong | Producer/Director/Concept”"
-  - "“Niell DuVal | Producer/Technical Director/Props”"
+  - "“Carmen C. Wong | Director & Concept”"
+  - "“Niell DuVal | Technical Director & Props”"
   - "Susanna Oenterodottir | Stage Manager"
   - "“Ayodamola Okunseinde | Videographer/New Media Artist”"
   - "“Samantha Vick-McGill | Head Chef & Costume Assistance”"
   - "Josh Chambers | Chef"
   - "Mark DeCelles | Sous Chef"
   - "Glynnis Vance | Costume Consultant"
-  - "“Karol Urban | Audio for Video and “Milk Croon” Music (voice by Kay DuVal)”"
+  - "“Karol Urban | Audio for Video and “Milk Croon” Music (sung by Kay DuVal)”"
   - "“Chebonne Littlefield | “Meowinetti Mix” Music”"
   - "“6 |“Mystery in the Kitchen” Music”"
 voices: null
 performers: 
-  - "“Stephanie Davio - Costume Assistance & Head Servertron”"
-  - "Ken Hays - Marinetti"
-  - "“Melissa Krodman – Choreography & Servertron”"
-  - "“Carrie Monger – Choreography & Servertron”"
-  - "“Otis Ramsey-Zöe – Dramaturgy Assistance & Servertron”"
+  - "“Stephanie Davio | Costume Assistance & Head Servertron”"
+  - "Ken Hays | Marinetti"
+  - "“Melissa Krodman | Choreography & Servertron”"
+  - "“Carrie Monger | Choreography & Servertron”"
+  - "“Otis Ramsey-Zöe | Dramaturgy Assistance & Servertron”"
 thanks: 
   - "“Garner’s Produce of Warsaw, VA”"
   - The Farm at Sunnyside
@@ -47,15 +47,3 @@ flickr: "72157635196148780"
 -- [The Washington Post](http://www.washingtonpost.com/gog/performing-arts/a-tactile-dinner,1157229/critic-review.html) 
 
 The 2009 Capfringe hit is back – this time with 10 “courses” for vegetarians at the Big Bear Café.
-
-The Menu:
-Course 1: Meowinetti Mix
-Course 2: Prelude to Flavors
-Course 3: The Excited Bear
-Course 4: Milk
-Course 5: Perfected Pizza
-Course 6: Carrot+Cucumber=Professor
-Course 7: Mystery Meatball Machine
-Course 8: Touch/Taste
-Course 9: Rations
-Course 10: Battaglia
