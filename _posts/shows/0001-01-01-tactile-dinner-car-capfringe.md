@@ -13,7 +13,7 @@ collaborators:
 voices: null
 performers: 
   - "Keira Hart | Servertron"
-  - "John Hibey | \"Chef\""
+  - "John Hibey | Chef"
   - "Mark Jaster | Marinetti"
   - "Stephanie Davio | Hostess"
   - "Otis Ramsey-Zöe | Host & Dramaturgy Assistance"
@@ -34,10 +34,9 @@ thanks:
   - "Frank DuVal | Boccioni Artwork"
   - Elis Franzen
   - Yvonne Reyes
-  - Henry Thaggert
   - Our Guru advisors and donors
 subtitle: "\"Driving in and dishing up a Gastro-Art-Revolution!\""
-flickr: "72157629308361312"
+flickr: "72157629672647557"
 vimeo: "43927917"
 ---
 
