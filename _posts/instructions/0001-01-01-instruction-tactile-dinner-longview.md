@@ -1,6 +1,6 @@
 ---
 categories: instructions
-published: false
+published: true
 ---
 
 **The Menu for Long View Gallery**
