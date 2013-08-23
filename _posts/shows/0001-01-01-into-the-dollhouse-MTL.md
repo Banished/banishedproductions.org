@@ -1,21 +1,21 @@
 ---
 layout: show
-published: false
+published: true
 categories: wildcard
 collaborators: 
   - "Carmen C. Wong | Concept & Director"
-  - "Niell DuVal | Technical Director, Set-Artisan"
+  - "Niell DuVal | Technical Director & Set-Artisan"
   - "Levia C. Lew | Lighting & Set Designer"
   - "Melanie Clark | Costume Designer"
   - "Otis Ramsey-Zöe | Dramaturg"
   - "Susie Pamudji | Production Manager"
 voices: null
 performers: 
-  - "Carrie Monger | Rehearsal Manager/Deviser"
-  - "Stefanie Quinones Bass | Dancer/Deviser"
+  - "Carrie Monger | Rehearsal Manager & Deviser"
+  - "Stefanie Quinones Bass | Dancer& Deviser"
   - "Nicola Daval | Performer"
   - "Travis Flower | Musician & Sound Designer"
-  - "Jennifer Rivers | Rehearsal Assistant/Deviser"
+  - "Jennifer Rivers | Dance & Deviser"
   - "Emmett Williams | Musician"
 thanks: 
   - "Michael Kyrioglou | Marketing Consultant"
