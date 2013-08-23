@@ -1,6 +1,6 @@
 ---
 categories: archive
-published: false
+published: true
 ---
 
 **Project Brief**
