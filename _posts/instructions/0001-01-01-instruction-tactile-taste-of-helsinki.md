@@ -11,4 +11,4 @@ A Tactile Taste of Helsinki on kokeellinen performanssi-illallinen, jonka ovat s
 
 Kevyt elämyspäivällinen, jonka hinta on 15 euroa, jättää vatsaasi tilaa nauttia muistakin Ravintolapäivän antimista. Valmiin ateriakokoonpanon vuoksi emme valitettavasti voi suosittella illallista kasvissyöjille emmekä ruoka-allergikoille.  
 
-Tästä näet millaisia illallisia olemme järjestäneet aiemmin. (link to Tactile eries page)
+[Tästä näet millaisia illallisia olemme järjestäneet aiemmin.]({{site.baseurl}}/tactile)
