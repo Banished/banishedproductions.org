@@ -12,8 +12,9 @@ MO 7/20: 7:00pm & 9:00pm (extended)
 $15 plus $5 suggested gratuity
 
 ##Press
-**Press Release**
-**Program**
+**[Press Release](https://www.dropbox.com/s/j0k8avabpk563f6/TactileDinner2009-PressRelease.pdf)**
+**[Program](https://www.dropbox.com/s/t1nydvvoztdu8zu/TactileCapFringe2009-Program.pdf)**
+
 **Other Reviews**
 “As experiential theater goes, this effort, by the D.C.-based banished? productions and artistic director Carmen C. Wong makes for a giddy little refreshment.” -- [Washington Post](http://voices.washingtonpost.com/goingoutgurus/2009/07/a_tactile_dinner_whimsicality.html) 
 
