@@ -26,7 +26,6 @@ prose:
         field:
           element: "select"
           label: "Select a series"
-          placeholder: "Default"
           options:
             - name: "footsteps"
               value: "footsteps"
@@ -49,7 +48,6 @@ prose:
       - name: "collaborators"
         field:
           element: "textarea"
-          placeholder: "Name|Role"
           label: "Artistic Collaborators"
           value: ""
       - name: "voices"
