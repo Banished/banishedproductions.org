@@ -1,22 +1,11 @@
 ---
 layout: show
-published: false
+published: true
 categories: tactile
-collaborators: 
-  - "Carmen C. Wong | Co-Producer/Director/Food Concept"
-  - "Sofia de Vocht | Co-Producer/Food Assistance"
-  - "Elina Vaino | Production Assistant"
-  - "Anna Heikinheimo | Production Assistant"
-  - "Paula Arresta | Graphic Design"
+collaborators: null
 voices: null
-performers: 
-  - "Beniamino Borghi | Performer"
-  - "Veli-Matti Ikävalko/Kutomo | Musician"
-thanks: 
-  - Amy Hirsch
-  - Petri Herrala
-  - Matti Kunttu
-  - Susanna Torvinen
+performers: null
+thanks: null
 subtitle: "“eat to remember, eat to forget”"
 flickr: "72157632296495360"
 ---

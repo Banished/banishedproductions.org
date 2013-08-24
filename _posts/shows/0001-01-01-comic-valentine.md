@@ -1,25 +1,10 @@
 ---
 layout: show
-published: false
+published: true
 categories: wildcard
-collaborators: 
-  - "Lane Pianta | Director/Producer/Concept"
-  - "Carmen Wong | Director/Producer"
-  - "Levia Lew | Set & Lighting Design/Sound Assistance"
-  - "Niell DuVal | Scenic Assistance/Props/Board Op"
-  - "Glynnis Vance | Costume Assistance"
-  - "Emmett Williams | Video Assistance"
-  - "Melissa Krodman | Co-Producer/Video Assistance"
-  - "Joseph Price | Webmaster/Graphics Assistance"
+collaborators: null
 voices: null
-performers: 
-  - Bridget Garwood
-  - Paul Horan
-  - Jasmin Johnson
-  - Chris Keener
-  - Melissa Krodman
-  - Jennie Lutz
-  - Lisa Margarita Nadal
+performers: null
 thanks: null
 subtitle: " pre-code sauciness in a living comic book"
 flickr: "72157626303608192"

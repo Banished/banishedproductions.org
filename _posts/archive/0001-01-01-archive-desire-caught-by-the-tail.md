@@ -1,21 +1,22 @@
 ---
 categories: archive
-published: false
+published: true
 ---
 
-**Times & Tickets**
-Wed, Jul 19, 7pm (Invited Dinner Preview)Thu, Jul 20: 7:30pm
-Fri, Jul 21: 7:30pm
-Sat, Jul 22: 7:30pm
-Sun, Jul 20: 2:00pm & 7:00pm
+**2006 Capital Fringe Performances**
+WE 7/19: 7:00pm (Invited Dinner Preview)
+TH 7/20: 7:30pm
+FR 7/21: 7:30pm
+SA 7/22: 7:30pm
+SU 7/20: 2:00pm & 7:00pm
 
-**Podcast**
+##Press
+**[Press Release](https://www.dropbox.com/s/ro7gsclnwdx1n2c/DesireCaughtbytheTail-PressRelease.pdf)**
+**[Program](https://www.dropbox.com/s/2indzmf8qc58d3s/DesireCaughtbytheTail-Program.pdf)**
+**[Poster](https://www.dropbox.com/s/ga5un5qh1en1vf9/DesireCaughtbytheTail-poster.pdf)** 
+**[Podcast](https://www.dropbox.com/s/54d9kwyoqsvcvsm/Desire-Podcast-128.mp3)**
 
-**Press Release**
-
-**Program + Poster Reviews:**
-“...a freewheeling interpretation with little of Picasso’s stage direction followed to the letter. The artist would have approved, for what good is it to pay homage to creative genius by re-creating his work if it’s done in a way that is predictable and uncreative?” -[Washington Post](http://www.washingtonpost.com/wp-dyn/content/article/2006/07/21/AR2006072101452.html)
-
+**Other Reviews**
 “Director Carmen C. Wong wisely decides to emphasize the sensual elements of the play, hugely aided by the choreography of Meisha Bosma and Nicole Phillips, two astonishing young dancers who also appear as silent characters.” -DC Theatre Reviews
 
 “But it’s rather striking: Terrific design work, with saucy projections and a dude playing stand-up bass at stage left.” -Washington City Paper
