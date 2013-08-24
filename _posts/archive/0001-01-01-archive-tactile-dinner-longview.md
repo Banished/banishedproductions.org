@@ -10,6 +10,7 @@ $45 plus $5 suggested gratuity
 
 ##Press
 **[Press Release](https://www.dropbox.com/s/g3bidccm9wp3rou/TactileDinner2010-PressRelease.pdf)**
+**[Program](https://www.dropbox.com/s/ri0xl3vyzfgyo1i/Tactile_BBCLVGProgram.pdf)**
 
 **Other Reviews**
 “This daringly interactive, philosophically pungent, meal-like extravaganza is designed to spatula audiences out of their comfort zones — theatrical and gustatory — and instill a new appreciation of sensory experience.”
