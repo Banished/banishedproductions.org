@@ -2,6 +2,33 @@
 ---
 <!DOCTYPE html>
 <html>
+<style>
+footer {
+  border-top:3px solid #eee;
+}
+.sponsors p {
+  font-size:14px;
+  font-weight:700;
+  text-transform:uppercase;
+}
+.icon.sponsor {
+  display:block;
+  margin:-20px 20px 0;
+  height:90px;
+  background-position:-520px 0;
+}
+.icon.culturaldc {
+  width:80px;
+}
+.icon.dccah {
+  width:145px;
+  background-position:-380px 0;
+}
+.icon.tcg {
+  width:110px;
+  background-position:-270px 0;
+}
+</style>
 <head>
   <title>Banished Productions {% if page.url != '/index.html' %}| {{page.title}}{% endif %}</title>
   <meta charset='UTF-8'/>
@@ -22,27 +49,19 @@
     {% include left.html %}
   </div>
   <div class='col8 margin0'>
+    {% if page.title == 'about'%}
+    {% else %}
     {{content}}
+    {% endif %}
   </div>
 </section>
-<footer class='col12 pad4 cf'>
-<div class='col3 pad2w donate'>
-  <a href='https://www.fracturedatlas.org/site/fiscal/profile?id=1989'>
-    Support. Give. Play.
-  </a>
-</div>
-<div class='col4 margin1'>
-  <ul class='social'>
-    <li><a href='https://www.facebook.com/banishedproductions' target='_blank' class='icon facebook transition'></a></li>
-    <li><a href='https://twitter.com/banishedpdtns' target='_blank' class='icon twitter transition'></a></li>
-    <li><a href='http://vimeo.com/user1744259' target='_blank' class='icon vimeo transition'></a></li>
-    <li><a href='http://www.flickr.com/photos/60776064@N02/sets/' target='_blank' class='icon flickr transition'></a></li>
-  </ul>
-</div>
-<div class='col4 sponsors'>
-  <div><img class='col3 pad1' src='{{site.baseurl}}/img/sponsors/culturaldc.jpg'></div>
-  <div><img class='col3 pad1' src='{{site.baseurl}}/img/sponsors/dccah.png'></div>
-  <div><img class='col3 pad1' src='{{site.baseurl}}/img/sponsors/tcg.gif'></div>
-</div>
+<footer class='col12 pad4'>
+  <a class='col4 cf' href='mailto:info@banishedproductions.org'>&#10066; info@banishedproductions.org</a>
+  <div class='sponsors col8'>
+    <span class='col4'>&#10066; We are sponsored by</span>
+    <a href='http://www.culturaldc.org/' target='_blank' class='icon sponsor culturaldc col2'></a>
+    <a href='http://dcarts.dc.gov/' target='_blank' class='icon sponsor dccah col2'></a>
+    <a href='http://www.tcg.org/' target='_blank' class='icon sponsor tcg col2'></a>
+  </div>
 </footer>
 </body>

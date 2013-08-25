@@ -1,8 +1,15 @@
 <a href='{{site.baseurl}}/' class='logo banished'></a>
-<a href='#' class='about transition'>The Avant-pop Art of play</a>
+<ul class='social'>
+  <li><a href='{{site.baseurl}}/about' class='about'>About</a>
+  <li><a href='https://www.facebook.com/banishedproductions' target='_blank' class='icon facebook transition'></a></li>
+  <li><a href='https://twitter.com/banishedpdtns' target='_blank' class='icon twitter transition'></a></li>
+  <li><a href='http://vimeo.com/user1744259' target='_blank' class='icon vimeo transition'></a></li>
+  <li><a href='http://www.flickr.com/photos/60776064@N02/sets/' target='_blank' class='icon flickr transition'></a></li>
+</ul>
 <ul class='connect'>
   <li class='featured'>
     <h3>What's happening</h3>
+    <div class='col12 divider'></div>
     <!-- getting the most recent featured post -->
     <div>
     {% for post in site.categories.featured limit:1 %}
@@ -12,11 +19,12 @@
   </li>
   <li class='mailchimp'>
     <h3>Hear from us</h3>
+    <div class='col12 divider'></div>
     <div class='mailchip-form'>{% include mailchimp.html%}</div>
   </li>
-<!--   <li class='donate'>
+  <li class='donate'>
     <a href='https://www.fracturedatlas.org/site/fiscal/profile?id=1989'>
     Support. Give. Play.
     </a>
-  </li> -->
+  </li>
 </ul>
