@@ -1,7 +1,7 @@
 ---
 layout: show
 published: true
-categories: wildcard
+categories: hybrids
 collaborators: 
   - "Niell DuVal | Producer"
   - "Carmen C. Wong | Producer"

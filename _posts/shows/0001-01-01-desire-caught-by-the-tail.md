@@ -1,6 +1,6 @@
 ---
 layout: show
-categories: wildcard
+categories: hybrids
 voices: null
 performers: 
   - "Meisha Bosma | Anguish I"

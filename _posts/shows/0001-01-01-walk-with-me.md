@@ -29,7 +29,7 @@ thanks:
 - "Sam Vick-McGill"
 tags: 
   - instructions
-  - current
+  - archive
 published: true
 ---
 

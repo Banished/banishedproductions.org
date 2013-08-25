@@ -1,7 +1,7 @@
 ---
 layout: show
 published: true
-categories: wildcard
+categories: hybrids
 collaborators: 
   - "Carmen C. Wong | Concept & Director"
   - "Niell DuVal | Technical Director & Set-Artisan"

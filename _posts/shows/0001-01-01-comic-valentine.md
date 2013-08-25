@@ -1,7 +1,7 @@
 ---
 layout: show
 published: true
-categories: wildcard
+categories: hybrids
 collaborators: null
 voices: null
 performers: null
