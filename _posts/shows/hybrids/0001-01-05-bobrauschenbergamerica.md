@@ -8,7 +8,7 @@ collaborators:
   - "Levia Lew | Lighting & Set Design"
   - "Julie Allen | Video Assistance"
   - "Pruitt Y. Allen | Video Assistance"
-  - "Danielle Mages Amato | Graphics Design and Dramaturgy Consultant"
+  - "Danielle Mages Amato | Graphic Design and Dramaturgy Consultant"
   - "Jerry Busher | Sound Assistance"
   - "Ron Keith | Video Editing"
   - "Carrie Monger | Choreography"
@@ -20,9 +20,9 @@ voices: null
 performers: 
   - "Jessie Agus | Girl on Roller Skates"
   - "Dionne Audain | Allen"
-  - "Jerry Busher | Becker / Wilson"
+  - "Jerry Busher | Becker & Wilson"
   - "Niell DuVal | Phil The Trucker"
-  - "Gabriela Fernandez-Coffey | Susan / Voice of Phil’s Girl"
+  - "Gabriela Fernandez-Coffey | Susan & Voice of Phil’s Girl"
   - "Carrie Monger | Carl"
   - "Meera Narasimhan | Bob’s Mom"
 thanks: 
@@ -40,7 +40,7 @@ thanks:
   - "Larissa Cyran and Drew Porterfield | Long View Gallery"
   - "Kris Swanson | The Corner Store Gallery"
   - The Arena Stage Costume and Prop Shops
-  - "Breakwell’s Coffee & Tea"
+  - Breakwell Cafe
   - Alex Padro and Martin Moulton
   - Karina Lee Sudyatmiko and Agus Riyanto
 flickr: "72157626303512246"
