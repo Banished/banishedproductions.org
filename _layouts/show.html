@@ -50,7 +50,11 @@ layout: default
 {% assign show = page.title | downcase %}
 <section class='show-name col12 cf'>
 	<div class='col6 titles'>
+		{% if page.name %}
+		<h1 class='title'>{{page.name}}</h1>
+		{% else %}
 		<h1 class='title'>{{page.title}}</h1>
+		{% endif %}
 		<p class='subtitle'>{{page.subtitle}}</p>
 	</div>
 	<ul class='subnav fr'>
@@ -105,8 +109,8 @@ layout: default
 	</div>
 </section>
 <section class='archive'>
-	<div class='archive-item col12 cf'>
 	{% if page.tags contains 'instructions' %}
+	<div class='archive-item col12 cf'>
 		<p class='past-summary'>
 			<a class='expand' href='#'>More about the experience <span>→</span></a>
 		</p>
@@ -118,10 +122,10 @@ layout: default
 			{% endif %}
 			{% endfor %}
 		</div>
-	{% endif %}
 	</div>
-	<div class='archive-item col12 cf'>
+	{% endif %}
 	{% if page.tags contains 'archive' %}
+	<div class='archive-item col12 cf'>
 		<p class='past-summary'>This is a past event.
 			<a class='expand' href='#'>See archived show information <span>→</span></a>
 		</p>
@@ -133,8 +137,8 @@ layout: default
 			{% endif %}
 			{% endfor %}
 		</div>
-	{% endif %}
 	</div>
+	{% endif %}
 </section>
 <section class='credentials col12 pad2w cf'>
 	{% include credentials.html %}

@@ -9,13 +9,13 @@ layout: default
 	opacity:0.4;
 }
 .series-name {
-	margin-bottom:20px;
+	margin-bottom:10px;
 }
 ul.series-content {
 	position:relative;
 }
 .series-content li{
-	font-size:32px;
+	font-size:28px;
 	margin-bottom:10px;
 }
 .series-content li:before {
@@ -34,14 +34,18 @@ ul.series-content {
 </style>
 {% assign downcaseTitle = page.title | downcase %}
 <div class='col12 series-name'>
-	<h1 class='title'>{{page.name | capitalize }}</h1>
+	<h1 class='title'>{{page.name}}</h1>
 	<p class='subtitle'>{{page.subtitle | capitalize }}</p>
 </div>
 <div class='col12 animated'>
 	<img src='{{site.baseurl}}/img/animated/{{downcaseTitle}}.gif'>
 </div>
 <ul class='col12 series-content'>
-	{% for post in site.categories[downcaseTitle]%}
+	{% for post in site.categories[downcaseTitle] reversed %}
+		{% if post.name %}
+		<li><a href='{{post.url}}'>{{post.name}}</a></li>
+		{% else %}
 		<li><a href='{{post.url}}'>{{post.title}}</a></li>
+		{% endif %}
 	{% endfor %}
 </ul>

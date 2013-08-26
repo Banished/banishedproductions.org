@@ -1,5 +1,6 @@
 ---
 layout: show
+name: Into the doll house at Arena Stage
 published: true
 categories: hybrids
 collaborators: 

@@ -1,5 +1,5 @@
 ---
 layout: series
 name: Ballades Mechaniques
-subtitle: "private narrative travels (through) public spaces"
+subtitle: "unlocking stories from machines"
 ---
