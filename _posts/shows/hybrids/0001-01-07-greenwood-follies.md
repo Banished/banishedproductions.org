@@ -4,7 +4,7 @@ published: true
 categories: hybrids
 collaborators: 
   - "Niell DuVal | Producer"
-  - "“Carmen C. Wong | Producer”"
+  - "Carmen C. Wong | Producer"
   - "Andrew Grosso | Director"
   - "John DuVal | Translator"
 voices: null
@@ -15,7 +15,8 @@ performers:
   - Hugh Nees
   - Jennifer Mendenhall
   - Paul Whitthorne
-thanks: "-DC Commission on the Arts and Humanities"
+thanks: 
+  - DC Commission on the Arts and Humanities
 subtitle: and other Old French plays
 name: Greenwood Follies
 tags: 
