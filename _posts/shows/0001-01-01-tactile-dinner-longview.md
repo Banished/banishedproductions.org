@@ -35,6 +35,21 @@ thanks:
   - "Meiyu Tsung | Marketing Assistant & Press Contact"
   - "Amy Cesal | Graphic Designer"
   - "Joseph Price | Webmaster & Box-Office Manager"
+voices: null
+thanks: 
+  - Atwater’s Bakery
+  - Endless Summer Harvest
+  - Evensong Farm
+  - Garner’s Produce
+  - Gunpowder Bison
+  - The Farm at Sunnyside
+  - "Reid’s Orchards & Winery"
+  - "Sunnyside Farm & Orchards"
+  - "Alex Fawcett | Production Assistant"
+  - "Wanchun Wu | Production Assistant"
+  - "Meiyu Tsung | Marketing Assistant & Press Contact"
+  - "Amy Cesal | Graphic Designer"
+  - "Joseph Price | Webmaster & Box-Office Manager"
   - "Laura Kellner | Kikkerland"
   - Anna Blasco
   - Stacey Carlberg

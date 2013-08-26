@@ -44,6 +44,8 @@ flickr: "72157635196148780"
 tags:
 - instructions
 - archive
+subtitle: "A 10 course-meal for the senses at Big Bear Café"
+flickr: "72157635196148780"
 ---
 
 “This daringly interactive, philosophically pungent, meal-like extravaganza is designed to spatula audiences out of their comfort zones — theatrical and gustatory — and instill a new appreciation of sensory experience.”
