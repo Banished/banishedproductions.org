@@ -6,16 +6,16 @@ flickr: "72157631510849071"
 vimeo: "48039372"
 collaborators:
 - Juanita Rockwell | Playwright
-- Carmen C. Wong | Concept, Director & Producer
-- Linsay Deming | Audio Engineer: Sound Design
-- Travis Flower | Audio Engineer: Recording & Music Design
-- Logan Hartsell | Audio Engineer: Sound Design & Mastering
-- Niell DuVal | Producer & Cartography
+- "Carmen C. Wong | Concept, Director & Producer"
+- "Linsay Deming | Audio Engineer: Sound Design"
+- "Travis Flower | Audio Engineer: Recording & Music Design"
+- "Logan Hartsell | Audio Engineer: Sound Design & Mastering"
+- "Niell DuVal | Producer & Cartography"
 - Moriah Browning | Production Intern
 voices:
 - Margaret Farrell
 - Mark Jaster
-- Fugi & O. Jenkins
+- "Fugi & O. Jenkins"
 - Mary Suib
 - Sarah Mosbacher
 - Laura Westman
