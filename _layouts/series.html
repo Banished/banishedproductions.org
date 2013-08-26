@@ -1,43 +1,12 @@
 ---
 layout: default
 ---
-<style>
-.animated img {
-	position:absolute;
-	top:40px;
-	right:40px;
-	opacity:0.4;
-}
-.series-name {
-	margin-bottom:10px;
-}
-ul.series-content {
-	position:relative;
-}
-.series-content li{
-	font-size:28px;
-	margin-bottom:10px;
-}
-.series-content li:before {
-	padding-right:20px;
-	color:#ff7d00;
-}
-.series-content li:nth-child(2n+1):before {
-	content:'▧';
-}
-.series-content li:nth-child(2n+2):before {
-	content:'▥';
-}
-.series-content li:nth-child(2n+3):before {
-	content:'▩';
-}
-</style>
 {% assign downcaseTitle = page.title | downcase %}
 <div class='col12 series-name'>
 	<h1 class='title'>{{page.name}}</h1>
 	<p class='subtitle'>{{page.subtitle | capitalize }}</p>
 </div>
-<div class='col12 animated'>
+<div class='col12 animated {{downcaseTitle}}'>
 	<img src='{{site.baseurl}}/img/animated/{{downcaseTitle}}.gif'>
 </div>
 <ul class='col12 series-content'>

@@ -247,7 +247,6 @@ table {
 .icon.vimeo:hover {background-position:-100px  -749px;}
 .icon.flickr:hover {background-position:-150px -749px;}
 
-
 /* big logos */
 .logo.banished {
   width:240px;
@@ -274,18 +273,70 @@ table {
   height:240px;
 }
 
+.subnav li .icon {
+  width:50px;
+  height:80px;
+}
+.subnav li .icon.tactile {    background-position: 0px   -830px;}
+.subnav li .icon.footsteps {  background-position:-58px  -830px;}
+.subnav li .icon.mechaniques {background-position:-120px -830px; width:75px;}
+.subnav li .icon.hybrids {    background-position:-220px -830px; width:85px;}
 
-/* footer */
 
+.subnav li .icon.tactile:hover,
+.subnav li .icon.tactile.active   {background-position: 0px   -922px;}    
+.subnav li .icon.footsteps:hover,
+.subnav li .icon.footsteps.active   {background-position:-58px  -922px;} 
+.subnav li .icon.mechaniques:hover,
+.subnav li .icon.mechaniques.active {background-position:-120px -922px;}
+.subnav li .icon.hybrids:hover,
+.subnav li .icon.hybrids.active   {background-position:-220px -922px;}
 /* index.html
 ------------------------------------------------------- */
-ul.front li a p{
+.icon.artillery {
+  position:absolute;
+  right:25px;
+  width:210px;
+  height:110px;
+  background-position: -390px -700px;
+}
+.icon.artillery:hover {
+  background-position: -390px -807px;
+}
+ul.front {
+  padding-left:40px;
+}
+.front li:nth-child(2){
+  margin-top:-30px;
+}
+.front li:nth-child(3){
+  margin-top:-25px;
+  padding-left:18%;
+}
+.front li:last-child {
+  margin-top:-115px;
+}
+.front li a p{
   font-family:'Ubuntu Titling',sans-serif;
   padding:20px 2px;
   font-size:28px;
   font-weight:300;
 }
-/* left */
+.front li a:hover p:before,
+.front li a:hover p:after {
+  content: '❛';
+  position:absolute;
+  display:inline-block;
+  margin:0 -15px;
+  color:#ff7d00;
+}
+.front li a:hover p:after {
+  position:relative;
+  margin-left:2px;
+  content:'❜';
+}
+/* left
+------------------------------------------------------- */
 ul.social {
   padding:10px 0 35px;
 }
@@ -415,13 +466,69 @@ ul.connect li{
   background:#f6f6f6;
   border-radius: 0;
 }
+/* footer */
+footer {
+  border-top:1px dotted #d3d3d3;
+}
+.sponsors p {
+  font-size:14px;
+  font-weight:700;
+  text-transform:uppercase;
+}
+.icon.sponsor {
+  display:block;
+  margin:-20px 20px 0;
+  height:90px;
+  background-position:-520px 0;
+}
+.icon.culturaldc {
+  width:80px;
+}
+.icon.dccah {
+  width:145px;
+  background-position:-380px 0;
+}
+.icon.tcg {
+  width:110px;
+  background-position:-270px 0;
+}
 /* show and series
 ------------------------------------------------------- */
 .subtitle {
   font-weight:700;
 }
 .animated img {
-  max-width:55%;
+  position:absolute;
+  top:40px;
+  right:40px;
+  opacity:0.4;
+}
+.animated.tactile img,
+.animated.mechaniques img {
+  top:120px;
+}
+.series-name {
+  margin-bottom:10px;
+}
+ul.series-content {
+  position:relative;
+}
+.series-content li{
+  font-size:28px;
+  margin-bottom:10px;
+}
+.series-content li:before {
+  padding-right:20px;
+  color:#ff7d00;
+}
+.series-content li:nth-child(2n+1):before {
+  content:'▧';
+}
+.series-content li:nth-child(2n+2):before {
+  content:'▥';
+}
+.series-content li:nth-child(2n+3):before {
+  content:'▩';
 }
 .series-content ul li {
   margin-bottom:10px;
@@ -429,6 +536,33 @@ ul.connect li{
 .series-name,
 .show-name {
   padding:10px 0;
+}
+/* shows */
+.show-venue {
+  padding-bottom:20px;
+}
+.hero,
+#map {
+  overflow:hidden;
+  height:250px;
+}
+.hero img{
+  width:100%;
+}
+#map {
+  border:1px solid #d3d3d3;
+}
+/* small subnav logos on show pages*/
+.subnav {
+  width:220px;
+}
+.subnav li{
+  float:left;
+  display:block;
+  margin-right:20px;
+}
+.subnav li:last-child {
+  margin:0;
 }
 .show-summary,
 .archive {
