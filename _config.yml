@@ -33,8 +33,8 @@ prose:
               value: "mechaniques"
             - name: "tactile"
               value: "tactile"
-            - name: "wildcard"
-              value: "wildcard"
+            - name: "hybrids"
+              value: "hybrids"
       - name: "flickr"
         field:
           element: "text"
