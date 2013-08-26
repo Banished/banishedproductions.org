@@ -41,10 +41,11 @@ SU 10/7: 6:00PM / 7:00PM
 
 ### Press
 
-**Press Release**
+**[Press Release](https://www.dropbox.com/s/ubdqac0ky0556i2/BF-Circle-PressRelease.pdf)**
 
-**Program & Map**
-[Fringe Map & Program](http://www.banishedproductions.org/wp-content/uploads/2012/09/TheCircle-FringeProgram.pdf)
+**Dupont Circle Map & Program**
+
+**[Fringe Map & Program]((http://www.banishedproductions.org/wp-content/uploads/2012/09/TheCircle-FringeProgram.pdf))**
 
 **Other Reviews**
 
