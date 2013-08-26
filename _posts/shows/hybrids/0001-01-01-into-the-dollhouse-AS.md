@@ -1,6 +1,6 @@
 ---
 layout: show
-name: Into the Dollhouse (at the ArenaStage)
+name: Into the Dollhouse (at ArenaStage)
 published: true
 categories: hybrids
 collaborators: 
