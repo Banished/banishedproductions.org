@@ -5,7 +5,7 @@ categories: tactile
 collaborators: 
   - "Carmen C. Wong | Direction and Concept"
   - "Niell DuVal | Technical Director and Props"
-  - "Susanna Oenterodottir | Stage Manager"
+  - "Susie Pamudji | Production Manager"
   - "Ayodamola Okunseinde | Videography"
   - "Samantha Vick-McGill | Head Chef & Costume Assistance"
   - "Josh Chambers | Chef"
@@ -24,7 +24,7 @@ performers:
 thanks: 
   - "Wanchun Wu | Production Assistant"
   - "Joseph Price | Box-Office Manager"
-  - "Meiyu Tsung | Marketing Assistance & Press Contact"
+  - "Meiyu Tsung | Marketing and Press Contact"
   - "Amy Cesal | Graphic Designer"
   - "Laura Kellner | Kikkerland"
   - Garner’s Produce
@@ -44,7 +44,7 @@ flickr: "72157635196148780"
 tags: 
   - instructions
   - archive
-name: Tactile Dinner (at Big Bear)
+name: A Tactile Dinner (at Big Bear)
 ---
 
 “This daringly interactive, philosophically pungent, meal-like extravaganza is designed to spatula audiences out of their comfort zones — theatrical and gustatory — and instill a new appreciation of sensory experience.”
