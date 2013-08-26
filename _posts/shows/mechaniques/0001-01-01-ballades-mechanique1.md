@@ -19,7 +19,7 @@ thanks:
   - Lana Labermeier
   - Max Menna
   - Amber Parker
-subtitle: "\"A story-telling machine for 365days/365plays\""
+subtitle: "A story-telling machine for 365days/365plays"
 flickr: "72157626302590114"
 name: Ballades Mechaniques (ver 1.0)
 ---
