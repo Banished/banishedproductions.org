@@ -149,4 +149,8 @@ layout: default
 {% if page.tags contains 'current' %}
 loadMap("{{pageMap}}");
 {% endif %}
+var archiveLeng = $('.archive-item').size();
+if (archiveLeng > 1) {
+	$('.archive').addClass('multi-items')
+};
 </script>

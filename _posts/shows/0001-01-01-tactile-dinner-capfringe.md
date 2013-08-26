@@ -11,8 +11,8 @@ collaborators:
   - "Timothy Ball | Machine Mechanic"
   - "Sean Hennessy | Serving Ware"
   - "Marie Schneggenberger | Costume Advisor"
-  - "Zach Schlappi | Excerpt from “Pasta for Victory” video"
-  - "6 | Mystery in the Kitchen” Music"
+  - "Zach Schlappi | Excerpt from 'Pasta for Victory' video"
+  - "6 | 'Mystery in the Kitchen' Music"
 voices: null
 performers: 
   - "Emma Campbell | Servertron"

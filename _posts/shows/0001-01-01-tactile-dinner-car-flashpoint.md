@@ -10,11 +10,11 @@ collaborators:
   - "Karol Urban | Audio"
   - "Josh Hermias | Chef"
   - "Samantha Vick-McGill | Chef"
-  - "“Mark DeCelles | Sous-Chef”"
+  - "Mark DeCelles | Sous-Chef"
 voices: null
 performers: 
   - "Keira Hart | Servertron"
-  - "John Hibey | “Chef”"
+  - "John Hibey | 'Chef'"
   - "Mark Jaster | Marinetti"
   - "Stephanie Davio | Hostess"
   - "Otis Ramsey-Zöe | Host & Dramaturgy Assistance"
@@ -22,7 +22,7 @@ thanks:
   - Karyn Miller
   - "Michael Kyrioglou | Press Assistance"
   - "Justin Bost | Blueprint Menu Graphic Designer"
-  - "“Danielle Mages-Amato | Logo Graphic Designer”"
+  - "Danielle Mages-Amato | Logo Graphic Designer"
   - "Jessica Seo | Food Fetish Photographer"
   - "Kristian Whipple | Photographer"
   - "Britta Schumacher | Production Assistance"

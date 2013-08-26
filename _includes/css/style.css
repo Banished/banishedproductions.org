@@ -287,7 +287,7 @@ ul.front li a p{
 }
 /* left */
 ul.social {
-  padding-bottom:35px;
+  padding:10px 0 35px;
 }
 .social li {
     float: left;
@@ -419,25 +419,12 @@ ul.connect li{
 ------------------------------------------------------- */
 .subtitle {
   font-weight:700;
-  /*margin:20px 0;*/
 }
 .animated img {
   max-width:55%;
 }
 .series-content ul li {
   margin-bottom:10px;
-}
-.series-content ul li:before,
-.series-content ul li:after {
-  content:'«';
-  position:absolute;
-  display:inline-block;
-  margin:0 0 0 -20px;
-  color:#ff7d00;
-}
-.series-content ul li:after {
-  content:'»';
-  margin:0 0 0 16px;
 }
 .series-name,
 .show-name {
@@ -446,6 +433,9 @@ ul.connect li{
 .show-summary,
 .archive {
   border-top:1px dotted #d3d3d3;
+}
+.archive.multi-items {
+  border-bottom:1px dotted #d3d3d3;
 }
 .intro,
 .archive p {

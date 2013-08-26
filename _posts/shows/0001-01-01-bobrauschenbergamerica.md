@@ -9,6 +9,8 @@ thanks: null
 flickr: "72157626303512246"
 vimeo: "4790009"
 subtitle: Tie a string to something and see where it takes you
+tags:
+- archive
 ---
 
 “It’s a creative party, low-key, intimate, and genuinely celebratory — truly a mood-altering show.” [Washington Post](http://www.washingtonpost.com/wp-dyn/content/article/2007/07/22/AR2007072201080.html?sub=new) 

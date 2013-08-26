@@ -12,8 +12,8 @@ collaborators:
   - "Mark DeCelles | Sous Chef"
   - "Glynnis Vance | Costume Consultant"
   - "Karol Urban | Audio for Video and “Milk Croon” Music (sung by Kay DuVal)"
-  - "Chebonne Littlefield | “Meowinetti Mix” Music"
-  - "6 |“Mystery in the Kitchen” Music”"
+  - "Chebonne Littlefield | 'Meowinetti Mix' Music"
+  - "6 |'Mystery in the Kitchen” Music'"
 voices: null
 performers: 
   - "Stephanie Davio | Costume Assistance & Head Servertron"

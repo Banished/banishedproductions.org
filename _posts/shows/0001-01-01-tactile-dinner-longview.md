@@ -20,21 +20,7 @@ performers:
   - "Ken Hays | Marinetti"
   - "Melissa Krodman | Choreography & Servertron"
   - "Carrie Monger | Choreography & Servertron"
-  - "Otis Ramsey-Zöe | Dramaturgy Assistance & Servertron”"
-thanks: 
-  - Atwater’s Bakery
-  - Endless Summer Harvest
-  - Evensong Farm
-  - Garner’s Produce
-  - Gunpowder Bison
-  - The Farm at Sunnyside
-  - "Reid’s Orchards & Winery"
-  - "Sunnyside Farm & Orchards"
-  - "Alex Fawcett | Production Assistant"
-  - "Wanchun Wu | Production Assistant"
-  - "Meiyu Tsung | Marketing Assistant & Press Contact"
-  - "Amy Cesal | Graphic Designer"
-  - "Joseph Price | Webmaster & Box-Office Manager"
+  - "Otis Ramsey-Zöe | Dramaturgy Assistance & Servertron"
 voices: null
 thanks: 
   - Atwater’s Bakery
