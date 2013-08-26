@@ -275,22 +275,22 @@ table {
 
 .subnav li .icon {
   width:50px;
-  height:80px;
+  height:66px;
 }
-.subnav li .icon.tactile {    background-position: 0px   -830px;}
-.subnav li .icon.footsteps {  background-position:-58px  -830px;}
-.subnav li .icon.mechaniques {background-position:-120px -830px; width:75px;}
-.subnav li .icon.hybrids {    background-position:-220px -830px; width:85px;}
+.subnav li .icon.tactile {    background-position: 0px   -865px;}
+.subnav li .icon.footsteps {  background-position:-45px  -865px;}
+.subnav li .icon.mechaniques {background-position:-95px -865px; width:70px;}
+.subnav li .icon.hybrids {    background-position:-165px -865px; width:75px;}
 
 
 .subnav li .icon.tactile:hover,
-.subnav li .icon.tactile.active   {background-position: 0px   -922px;}    
+.subnav li .icon.tactile.active   {background-position:   0px   -940px;}    
 .subnav li .icon.footsteps:hover,
-.subnav li .icon.footsteps.active   {background-position:-58px  -922px;} 
+.subnav li .icon.footsteps.active   {background-position:-45px  -940px;} 
 .subnav li .icon.mechaniques:hover,
-.subnav li .icon.mechaniques.active {background-position:-120px -922px;}
+.subnav li .icon.mechaniques.active {background-position:-95px  -940px;}
 .subnav li .icon.hybrids:hover,
-.subnav li .icon.hybrids.active   {background-position:-220px -922px;}
+.subnav li .icon.hybrids.active   {background-position:  -165px -940px;}
 /* index.html
 ------------------------------------------------------- */
 .icon.artillery {
@@ -554,12 +554,12 @@ ul.series-content {
 }
 /* small subnav logos on show pages*/
 .subnav {
-  width:220px;
+  width:200px;
 }
 .subnav li{
   float:left;
   display:block;
-  margin-right:20px;
+  margin:0 10px 10px;
 }
 .subnav li:last-child {
   margin:0;
