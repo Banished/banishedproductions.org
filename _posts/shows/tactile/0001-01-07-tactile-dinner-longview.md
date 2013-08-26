@@ -43,7 +43,7 @@ flickr: "72157635196091084"
 tags: 
   - instructions
   - archive
-name: Tactile Dinner (at Long View)
+name: A Tactile Dinner (at Long View)
 ---
 
 “It manages the rare trick in avant-garde performance of not taking itself too seriously, of embracing the audience rather than intentionally alienating it: think Top Chef hosted by Stephen Colbert.” -- [ReadySetDC](http://readysetdc.com/2010/05/grabbing-a-tactile-dinner-2/)
