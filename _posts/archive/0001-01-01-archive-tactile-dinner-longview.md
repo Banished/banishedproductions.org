@@ -4,12 +4,16 @@ published: true
 ---
 
 **2010 Long View Gallery Performances**
+
 SU 5/16: 5:00pm & 7:30pm 
+
 MO 5/17: 7:00pm & 9:30pm  
+
 $45 plus $5 suggested gratuity
 
-##Press
+###Press
 **[Press Release](https://www.dropbox.com/s/g3bidccm9wp3rou/TactileDinner2010-PressRelease.pdf)**
+
 **[Program](https://www.dropbox.com/s/ri0xl3vyzfgyo1i/Tactile_BBCLVGProgram.pdf)**
 
 **Other Reviews**
