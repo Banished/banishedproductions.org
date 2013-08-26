@@ -38,6 +38,9 @@ thanks:
 subtitle: "\"Driving in and dishing up a Gastro-Art-Revolution!\""
 flickr: "72157629672647557"
 vimeo: "43927917"
+tags:
+- instructions
+- archive
 ---
 
 “hands-down the most inventive item on tonight’s Fringe menu” -- [Washington City Paper](http://www.washingtoncitypaper.com/blogs/fringe/2011/07/07/tonight-theyre-gonna-rock-you-tonight-being-an-unscientific-guide-to-bet-hedging-as-capital-fringe-vi-begins/#more-3881)

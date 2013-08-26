@@ -37,6 +37,9 @@ thanks:
   - Our Guru advisors and donors
 subtitle: "\"A dystopian cafeteria-styled gastro-performance \""
 flickr: "72157629308361312"
+tags:
+- instructions
+- archive
 ---
 
 The Futurist-inspired, mobile gastro-performance that premiered at the 2011 CapFringe made a pit-stop at Flashpoint Gallery September 9-24, 2011.  

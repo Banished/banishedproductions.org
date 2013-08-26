@@ -3,12 +3,12 @@ layout: show
 published: true
 categories: tactile
 collaborators: 
-  - "“Carmen C. Wong | Concept & Artist”"
+  - "Carmen C. Wong | Concept & Artist"
   - "Niell DuVal | Bench Fabricator"
   - "Nguyen Khoi Nguyen | Video Artist"
   - "Rick Franklin | Musician"
-  - "“Elsabe Dixon, Jue Yang, Linsay Deming, Alyssa Schimmel, Sorane Yamahira | Volunteers”"
-  - "“Carina Gervacio | Food & Concept Assistance”"
+  - "Elsabe Dixon, Jue Yang, Linsay Deming, Alyssa Schimmel, Sorane Yamahira | Volunteers"
+  - "Carina Gervacio | Food & Concept Assistance"
   - "Levita Mondie | Food Assistance"
 voices: null
 performers: null

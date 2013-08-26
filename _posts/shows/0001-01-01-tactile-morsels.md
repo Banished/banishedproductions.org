@@ -3,8 +3,8 @@ layout: show
 published: true
 categories: tactile
 collaborators: 
-  - "“Niell DuVal | Design & Fabrication”"
-  - "“Carmen C. Wong | Concept, Food”"
+  - "Niell DuVal | Design & Fabrication"
+  - "Carmen C. Wong | Concept, Food"
   - "Karol Urban | Audio"
   - "Ayodamola Okunseinde | Video"
 voices: 

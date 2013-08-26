@@ -6,7 +6,7 @@ collaborators: null
 voices: null
 performers: null
 thanks: null
-subtitle: " pre-code sauciness in a living comic book"
+subtitle: "pre-code sauciness in a living comic book"
 flickr: "72157626303608192"
 ---
 

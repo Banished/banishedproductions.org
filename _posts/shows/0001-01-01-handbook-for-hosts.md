@@ -7,13 +7,13 @@ collaborators:
   - "Michael Sazonov | Gent"
   - "Mark Jaster | Co-Producer/Gent"
   - "Sabrina Mandell | Co-Producer/Femme"
-  - "Niell DuVal | Co-Producer/Props & Set Design”"
-  - "Carmen C. Wong | Co-Producer/Production Management”"
+  - "Niell DuVal | Co-Producer/Props & Set Design"
+  - "Carmen C. Wong | Co-Producer/Production Management"
   - "Justin Thomas | Lighting Design"
 voices: null
 performers: null
 thanks: null
-subtitle: "A sizzling noir cocktail "
+subtitle: "A sizzling noir cocktail"
 flickr: "72157626304320272"
 ---
 

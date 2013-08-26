@@ -12,6 +12,9 @@ tags:
   - archive
 published: true
 performers: null
+tags:
+- instructions
+- archive
 ---
 
 The second installation of the [banished? footsteps](/footsteps) series, _The Circle_ pulls time, space and audiences together by combining a 70′s-inspired narrative and sound with present-day urban structures and surroundings. For this 2012 CapFringe event, walkers experienced live action games within the Carnegie Library grounds. In this urban green space where real life meets narrative, they tapped into a surreal story of a woman tripping through past and future memory, one that weaves personal anecdotes of Dupont Circle in the 1970′s as seen through the eyes of the young and restless.
