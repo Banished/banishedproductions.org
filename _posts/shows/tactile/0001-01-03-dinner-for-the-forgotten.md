@@ -8,7 +8,6 @@ collaborators:
   - "Beniamino Borghi | Performer"
   - "Veli-Matti Ikävalko | Musician"
   - "Elina Vaino | Production Assistant"
-  - "Anna Heikinheimo | Production Assistant"
   - "Paula Arresta | Graphic Design"
 voices: null
 performers: null
