@@ -1,5 +1,5 @@
 var photoSetId = "{{page.flickr}}";
-var flickrApi = "http://api.flickr.com/services/rest/?method=flickr.photosets.getPhotos&api_key=19493fa9bbf4ab6081b55b2df529144d&photoset_id=" + photoSetId + "&format=json";
+var flickrApi = "http://api.flickr.com/services/rest/?method=flickr.photosets.getPhotos&api_key=19493fa9bbf4ab6081b55b2df529144d&photoset_id=" + photoSetId + "&format=json&jsoncallback=showSet";
 
 $.ajax({
    type: 'GET',
@@ -8,10 +8,10 @@ $.ajax({
     jsonpCallback: 'jsonCallback',
     contentType: "application/json",
     dataType: 'jsonp',
-    success: jsonFlickrApi
+    success: showSet
 });
 
-var jsonFlickrApi = function(res){	
+var showSet = function(res){	
 	var photos = res.photoset.photo;
 	for (var i = 0; i<9 ;i++){
 		var photoUrl = "http:\/\/farm"+ photos[i].farm +
@@ -19,6 +19,6 @@ var jsonFlickrApi = function(res){
 			"\/"+ photos[i].id + 
 			"_"+photos[i].secret +
 			"_q.jpg";
-		var pic  = $('#flickr').append('<img class="col4" id="photo'+ i +'" src="'+photoUrl+ '"/>');
+		var pic  = $('#flickr').append('<div class="col4 pad1"><img id="photo'+ i +'" src="'+photoUrl+ '"/></div>');
 	}
 }

@@ -28,7 +28,7 @@ h1 {
   font-weight:700;
   font-size:32px;
   margin-bottom:20px;
-  line-height:1em;
+  line-height:1.78em;
   }
 
 h2 {
@@ -402,7 +402,7 @@ ul.connect li{
   position: absolute;
   display: block;
   width: auto;
-  margin: 13px 0 0 230px;
+  margin: 15px 0 0 230px;
 }
 /* subscribe */
 #mc-embedded-subscribe {
@@ -467,21 +467,49 @@ ul.connect li{
   background:#f6f6f6;
 }
 #flickr img {
-  border:5px solid #fff;
+  width:100%;
 }
 #vimeo {
-  padding:0 5px;
+  padding:0 10px;
   width:100%!important;
   height:240px;
 }
-/* about */
+.credentials p {
+  padding:0;
+  margin:0;
+}
+.credentials p.role {
+  font-weight:300;
+}
+/* about
+------------------------------------------------------- */
+.about-text {
+  margin-bottom:26px;
+  font-weight:700;
+}
+.about-text h1 {
+  font-family:'Quicksand';
+  color:#ff7d00;
+}
+.team h3 {
+  padding:2px 0;
+  width:200px;
+  margin:0 auto 25px;
+  text-align: center;
+  border-top:1px dotted #d3d3d3;
+  border-bottom:1px dotted #d3d3d3;
+}
 .people {
-  margin-bottom:20px;
+  padding:0 20px 20px 0;
 }
 .people img {
   width:100%;
 }
 .team-desc {
-  font-size:14px;
-  border:1px dotted #ff7d00;
+  height:240px;
+  font-size:13px;
+  word-wrap:break-word;
+}
+.team-desc h4 {
+  color:#ff7d00;
 }

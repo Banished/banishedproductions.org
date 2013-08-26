@@ -1,0 +1,79 @@
+---
+layout: default
+---
+<div class='about-text'>
+	<h1>{{page.subtitle}}</h1>
+	{{content}}
+</div>
+<div class='team pad2w col12 cf'>
+	<h3>Engineers</h3>
+	<div id='engineers'></div>
+</div>
+<div class='team pad2w col12 cf'>
+	<h3>Artistic Collaborators</h3>
+	<div id='collaborators'></div>
+</div>
+<div class='team pad2w col12 cf'>
+	<h3>banished? Treehouse + Volunteers</h3>
+	<div id='treehouse'></div>
+</div>
+<script>
+var aboutApi = "http://api.flickr.com/services/rest/?method=flickr.people.getPublicPhotos&api_key=19493fa9bbf4ab6081b55b2df529144d&user_id=100588115%40N07&format=json&jsoncallback=aboutSet"
+
+$.ajax({
+   type: 'GET',
+    url: aboutApi,
+    async: true,
+    jsonpCallback: 'jsonCallback',
+    contentType: "application/json",
+    dataType: 'jsonp',
+    success: aboutSet
+});
+
+var aboutSet = function(resSet){
+	photos = resSet.photos.photo;
+	for (var i = 0; i<photos.length ;i++){
+		deatsApi = "http://api.flickr.com/services/rest/?method=flickr.photos.getInfo&api_key=19493fa9bbf4ab6081b55b2df529144d&photo_id="+ photos[i].id +"&format=json&jsoncallback=deats";
+		$.ajax({
+   			type: 'GET',
+    		url: deatsApi,
+    		async: true,
+    		jsonpCallback: 'jsonCallback',
+    		contentType: "application/json",
+    		dataType: 'jsonp',
+    		success: deats
+		});
+	}
+}
+var deats = function(resPhoto){
+	photo = resPhoto.photo;
+
+	var photoUrl = "http:\/\/farm"+ photo.farm +
+		".staticflickr.com\/" + photo.server + 
+		"\/"+ photo.id + 
+		"_"+photo.secret +
+		"_q.jpg";
+		name = photo.title._content;
+		bio = photo.description._content;
+
+	// building block for one person
+	var personBlock = '<div class="people col3 cf">' +
+		'<img src="'+ photoUrl+ '"/>'+
+		'<div class="team-desc pad1">' +
+		'<h4>'+ name +'</h4>'+
+		'<p>'+ bio +'</p>'+
+		'</div>'+
+		'</div>';
+
+	//put people in one of the three groups based on tags
+	var tag = photo.tags.tag[0]._content;
+	console.log(tag);
+	if (tag == 'engineers') {
+		$('#engineers').append(personBlock);
+	} else if (tag == 'collaborators') {
+		$('#collaborators').append(personBlock);
+	} else if (tag == 'treehouse') {
+		$('#treehouse').append(personBlock);
+	}
+}
+</script>

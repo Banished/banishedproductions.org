@@ -17,6 +17,9 @@ layout: default
 	border:1px solid #d3d3d3;
 }
 /* small subnav logos on show pages*/
+.subnav {
+	width:220px;
+}
 .subnav li{
 	float:left;
 	display:block;
@@ -50,15 +53,15 @@ layout: default
 		<h1 class='title'>{{page.title}}</h1>
 		<p class='subtitle'>{{page.subtitle}}</p>
 	</div>
-	<ul class='col5 margin1 subnav cf'>
+	<ul class='subnav fr'>
 		<li>
 			<a class='icon tactile {% if page.categories contains "tactile" %}active{% endif%}' href='{{site.baseurl}}/tactile'></a>
 		</li>
 		<li>
-			<a class='icon footsteps {% if page.categories contains "footsteps" %}active{% endif%}' href='{{site.baseurl}}/footsteps'></a>
+			<a class='icon mechaniques {% if page.categories contains "mechaniques" %}active{% endif%}' href='{{site.baseurl}}/mechaniques'></a>
 		</li>
 		<li>
-			<a class='icon mechaniques {% if page.categories contains "mechaniques" %}active{% endif%}' href='{{site.baseurl}}/mechaniques'></a>
+			<a class='icon footsteps {% if page.categories contains "footsteps" %}active{% endif%}' href='{{site.baseurl}}/footsteps'></a>
 		</li>
 		<li>
 			<a class='icon hybrids {% if page.categories contains "hybrids" %}active{% endif%}' href='{{site.baseurl}}/hybrids'></a>
@@ -88,7 +91,7 @@ layout: default
 	<div class='col5 intro'>
 		{{content}}
 	</div>
-	<div class='col6 margin0'>
+	<div class='col7'>
 		<!-- photos -->
 		{% if page.flickr %}
 		<div id='flickr'></div>
