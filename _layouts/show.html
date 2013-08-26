@@ -146,5 +146,7 @@ layout: default
 {% if page.flickr %}
 	{% include js/photos.js %}
 {% endif %}
+{% if page.tags contains 'current' %}
 loadMap("{{pageMap}}");
+{% endif %}
 </script>

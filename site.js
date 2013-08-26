@@ -20,10 +20,10 @@ $(function(){
 		$(this).toggleClass('expanded');
 		if ($(this).hasClass('expanded')) {
 			$(this).find('span').html('↓');
-			$(this).next().removeClass('hide');
+			$(this).parent().next().removeClass('hide');
 		} else {
 			$(this).find('span').html('→');
-			$(this).next().addClass('hide');
+			$(this).parent().next().addClass('hide');
 		}
 });
 })
