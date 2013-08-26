@@ -27,6 +27,6 @@ Tickets sold in 15-minute increments during the operation hours and the length o
 
 **Other Press**
 
-Going Out Gurus’ “Must-See At Fringe” –- [Washington Post](http://www.washingtonpost.com/blogs/going-out-gurus/post/the-capital-fringe-festival-preview-what-to-see/2011/07/06/gIQAlVy80H_blog.html)
+Going Out Gurus’ 'Must-See At Fringe' –- [Washington Post](http://www.washingtonpost.com/blogs/going-out-gurus/post/the-capital-fringe-festival-preview-what-to-see/2011/07/06/gIQAlVy80H_blog.html)
 
-“Fringe-Tested, Marinetti Approved” -- [Washington City Paper](http://www.washingtoncitypaper.com/blogs/artsdesk/theater/2011/06/09/fringe-tested-marinetti-approved/)
+Fringe-Tested, Marinetti Approved -- [Washington City Paper](http://www.washingtoncitypaper.com/blogs/artsdesk/theater/2011/06/09/fringe-tested-marinetti-approved/)
