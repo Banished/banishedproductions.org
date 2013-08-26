@@ -4,9 +4,27 @@ categories: footsteps
 subtitle: Listen and live the secrets and memories of The Circle
 flickr: "72157631510849071"
 vimeo: "48039372"
-collaborators: null
-voices: null
-thanks: null
+collaborators:
+- Juanita Rockwell | Playwright
+- Carmen C. Wong | Concept, Director & Producer
+- Linsay Deming | Audio Engineer: Sound Design
+- Travis Flower | Audio Engineer: Recording & Music Design
+- Logan Hartsell | Audio Engineer: Sound Design & Mastering
+- Niell DuVal | Producer & Cartography
+- Moriah Browning | Production Intern
+voices:
+- Margaret Farrell
+- Mark Jaster
+- Fugi & O. Jenkins
+- Mary Suib
+- Sarah Mosbacher
+- Laura Westman
+thanks:
+- Alex Clark
+- Dolcezza Gelato
+- The Dupont Underground
+- Faye Haskins
+- Kerri Wilson
 tags: 
   - instructions
   - archive

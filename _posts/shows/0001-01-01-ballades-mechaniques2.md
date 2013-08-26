@@ -2,10 +2,18 @@
 layout: show
 published: true
 categories: mechaniques
-collaborators: null
+collaborators:
+- Niell DuVal | Design & Fabrication
+- Carmen C. Wong | Project Concept & Art
+- Wan Chun Wu | Production Assistance
 voices: null
 performers: null
-thanks: null
+thanks:
+- Lola Bloom & Rebecca Lemos
+- Gab Schneider
+- Barrett Jones
+- Max Menna
+- Martin Moulton
 subtitle: Shadows in the garden
 flickr: "72157626302664912"
 ---
