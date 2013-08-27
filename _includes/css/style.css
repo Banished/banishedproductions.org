@@ -452,8 +452,10 @@ ul.connect li{
 #mc_embed_signup .mc-field-group.input-group input {
   position: absolute;
   display: block;
+  width:auto;
+  margin:2px 0 0 0;
   top:70px;
-  right:-28%;
+  right:6%;
 }
 /* subscribe */
 #mc-embedded-subscribe {
