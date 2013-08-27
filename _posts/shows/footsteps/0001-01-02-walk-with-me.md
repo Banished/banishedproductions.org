@@ -4,9 +4,30 @@ categories: footsteps
 subtitle: A brisk walk through Mount Pleasant/Columbia Heights
 flickr: "72157626302545444"
 vimeo: null
-collaborators: "Carmen C. Wong | Concept & Director Niell DuVal | Producer & Cartography Alex Clark | Audio Engineer & Sound Design Logan Hartsell | Audio Engineer & Sound Design Karol Urban | Recordist & Editor"
-voices: Gerson A. Gomez Molly Kelly Sarah Mosbacher Marisa Uchin William M. Washington
-thanks: "DC Commission on the Arts & Humanities | Young Artist Program Amy Cesal | Graphic Designer Ruth Gomez Daniel Harris Barrett Jones Melissa Krodman Joseph Price Otis Ramzey-Zoe Jessica Seo Anna Smith Samantha Vick-McGill"
+collaborators: 
+  - "Carmen C. Wong | Concept & Director"
+  - "Niell DuVal | Producer & Cartography"
+  - "Alex Clark | Audio Engineer & Sound Design"
+  - "Logan Hartsell | Audio Engineer & Sound Design"
+  - "Karol Urban | Recordist & Editor"
+voices: 
+  - Gerson A. Gomez
+  - Molly Kelly
+  - Sarah Mosbacher
+  - Marisa Uchin
+  - William M. Washington
+thanks: 
+  - "DC Commission on the Arts & Humanities | Young Artist Program"
+  - "Amy Cesal | Graphic Designer"
+  - Ruth Gomez
+  - Daniel Harris
+  - Barrett Jones
+  - Melissa Krodman
+  - Joseph Price
+  - "Otis Ramzey-Zoe"
+  - Jessica Seo
+  - Anna Smith
+  - "Samantha Vick-McGill"
 tags: 
   - instructions
   - archive
