@@ -3,14 +3,14 @@ layout: show
 published: true
 categories: hybrids
 collaborators: 
-  - "Lane Pianta | Director/Producer/Concept"
-  - "Carmen Wong | Director/Producer"
-  - "Levia Lew | Set & Lighting Design/Sound Assistance"
-  - "Niell DuVal | Scenic Assistance/Props/Board Op"
+  - "Lane Pianta | Director, Producer and Concept"
+  - "Carmen Wong | Director and Producer"
+  - "Levia Lew | Set & Lighting Design, Sound Assistance"
+  - "Niell DuVal | Set and Props, Board Op"
   - "Glynnis Vance | Costume Assistance"
   - "Emmett Williams | Video Assistance"
-  - "Melissa Krodman | Co-Producer/Video Assistance"
-  - "Joseph Price | Webmaster/Graphics Assistance"
+  - "Melissa Krodman | Co-Producer"
+  - "Joseph Price | Graphics and Webmaster"
 voices: null
 performers: 
   - Bridget Garwood
