@@ -1,6 +1,10 @@
 ---
 categories: instructions
+published: true
 ---
+
+###Follow these Steps to experience a self-guided version of _Walk With Me_
+
 Starting point: Columbia Heights MetroNorth-bound side exit of 14th Street NW (in front of the BB&T Bank)
 _Please note: This is not a historical or guided walk._
 
