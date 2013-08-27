@@ -1,6 +1,6 @@
 ---
 categories: archive
-published: false
+published: true
 ---
 
 **[Program](https://www.dropbox.com/s/yxc1kt7mjrsctey/TactileHelsinki-ProgramMenu.pdf)**
