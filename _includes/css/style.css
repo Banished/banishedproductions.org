@@ -469,9 +469,9 @@ ul.connect li{
 /* footer */
 footer {
   border-top:1px dotted #d3d3d3;
+  font-size:14px;
 }
 .sponsors p {
-  font-size:14px;
   font-weight:700;
   text-transform:uppercase;
 }
