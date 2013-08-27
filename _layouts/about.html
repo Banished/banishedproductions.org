@@ -1,9 +1,16 @@
 ---
 layout: default
 ---
-<div class='about-text'>
+<style>
+#about-map{
+	height:345px;
+	margin:10px 0;
+}
+</style>
+<div class='col12 about-text cf'>
 	<h1>{{page.subtitle}}</h1>
-	{{content}}
+	<div id='about-map' class='col4'></div>
+	<div class='col7 margin0'>{{content}}</div>
 </div>
 <div class='team pad2w col12 cf'>
 	<h3>Creative Team</h3>
@@ -18,6 +25,9 @@ layout: default
 	<div id='treehouse'></div>
 </div>
 <script>
+
+loadMap('about-map',"{{page.map}}");
+
 var aboutApi = "http://api.flickr.com/services/rest/?method=flickr.people.getPublicPhotos&api_key=19493fa9bbf4ab6081b55b2df529144d&user_id=100588115%40N07&format=json&jsoncallback=aboutSet"
 
 $.ajax({
@@ -67,7 +77,6 @@ var deats = function(resPhoto){
 
 	//put people in one of the three groups based on tags
 	var tag = photo.tags.tag[0]._content;
-	console.log(tag);
 	if (tag == 'engineers') {
 		$('#engineers').append(personBlock);
 	} else if (tag == 'collaborators') {

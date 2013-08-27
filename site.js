@@ -2,11 +2,11 @@
 ---
 ;{% include js/jquery.min.js %}
 
-var loadMap = function(mapId){
+var loadMap = function(el,mapId){
 	if (mapId == null) {
 		return
 	} else {
-		var map = L.mapbox.map('map', mapId);
+		var map = L.mapbox.map(el, mapId);
 		map.markerLayer.on('layeradd', function(e) {
 		var marker = e.layer;
 		marker.openPopup()
