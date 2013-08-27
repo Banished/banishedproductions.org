@@ -610,10 +610,6 @@ ul.series-content {
 }
 /* about
 ------------------------------------------------------- */
-#about-map{
-  height:280px;
-  margin:10px 0;
-}
 .about-text {
   margin-bottom:22px;
 }
@@ -622,7 +618,8 @@ ul.series-content {
   color:#ff7d00;
 }
 #about-map{
-  height:280px;
+  border:1px solid #d3d3d3;
+  height:315px;
   margin:10px 0;
 }
 .team h3 {
