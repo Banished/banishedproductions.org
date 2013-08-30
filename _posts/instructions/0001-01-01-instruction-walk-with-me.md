@@ -1,12 +1,16 @@
 ---
 categories: instructions
+published: true
 ---
+
+###Follow these Steps to experience a self-guided version of _Walk With Me_
+
 Starting point: Columbia Heights MetroNorth-bound side exit of 14th Street NW (in front of the BB&T Bank)
 _Please note: This is not a historical or guided walk._
 
-**Step 1: Download the package**
+**Step 1: [Download the package (Click here)](https://www.dropbox.com/s/2me7et3ighj0y0y/WalkWithMe.zip)**
 
-The Walk With Me package will contain 3 tracks (mp3s), and a map.
+The **_Walk With Me_ package** will contain 3 tracks (mp3s), and a map.
 Drop the three mp3 files into iTunes or your preferred music app and and make sure the tracks end up in your ipod/mp3 player. Take a listen to Track 1 before taking the walk. It will give you a chance to set your volume and direct you to the starting point of the walk.
 
 TIP: Make sure that you can also hear the surrounding sounds in real life.

@@ -5,10 +5,11 @@ categories: mechaniques
 collaborators: 
   - "Niell DuVal | Design and Fabrication"
   - "Carmen C. Wong | Project Concept and Art"
-  - "Wan Chun Wu | Production Assistance"
 voices: null
 performers: null
 thanks: 
+  - "Wan Chun Wu | Production Assistance"
+  - "Jessica Seo | Photography"
   - CityBlossoms
   - Lola Bloom
   - Rebecca Lemos
