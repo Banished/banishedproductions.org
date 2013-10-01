@@ -1,10 +1,12 @@
 ---
 categories: instructions
+published: true
 ---
+
 **Step 1: [Purchase the Audiowalk file from bandcamp](http://banishedproductions.bandcamp.com/track/the-circle-dupont)**
 Drop the mp3 file into iTunes or your preferred music app and and make sure the track ends up in your ipod/mp3 player.
 
-**Step 2A: You may [download and print the map](http://www.banishedproductions.org/wp-content/uploads/2012/10/TheCircle-DupontMAP.pdf) for a self-guided tour beginning at the Dupont Circle metro. Enjoy!** or
+**Step 2A: You may [download and print the map](https://www.dropbox.com/s/uhqml56u9sct5w8/TheCircle-DupontMAP.pdf) for a self-guided tour beginning at the Dupont Circle metro. Enjoy!** or
 
 **Step 2B: Join us for a mass walk when we have them scheduled. Ticket link and dates will appear on the right (coming 2013)**
 
