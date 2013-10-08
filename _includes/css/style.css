@@ -596,6 +596,9 @@ ul.series-content {
 #flickr img {
   width:100%;
 }
+#flickr img:hover {
+  opacity:0.8;
+}
 #vimeo {
   padding:0 10px;
   width:100%!important;

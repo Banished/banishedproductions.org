@@ -24,16 +24,6 @@ loadMap('about-map',"{{page.map}}");
 
 var aboutApi = "http://api.flickr.com/services/rest/?method=flickr.people.getPublicPhotos&api_key=19493fa9bbf4ab6081b55b2df529144d&user_id=100588115%40N07&format=json&jsoncallback=aboutSet"
 
-$.ajax({
-   type: 'GET',
-    url: aboutApi,
-    async: true,
-    jsonpCallback: 'jsonCallback',
-    contentType: "application/json",
-    dataType: 'jsonp',
-    success: aboutSet
-});
-
 var aboutSet = function(resSet){
 	photos = resSet.photos.photo;
 	for (var i = 0; i<photos.length ;i++){
@@ -49,6 +39,17 @@ var aboutSet = function(resSet){
 		});
 	}
 }
+
+$.ajax({
+   type: 'GET',
+    url: aboutApi,
+    async: true,
+    jsonpCallback: 'jsonCallback',
+    contentType: "application/json",
+    dataType: 'jsonp',
+    success: aboutSet
+});
+
 var deats = function(resPhoto){
 	photo = resPhoto.photo;
 
