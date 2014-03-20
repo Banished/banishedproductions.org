@@ -3,10 +3,36 @@ layout: show
 name: Into the Dollhouse (at ArenaStage)
 published: true
 categories: hybrids
-collaborators: null
+collaborators: 
+  - "Carmen C. Wong | Concept and Direction"
+  - "Niell DuVal | Technical Director and Set"
+  - "Levia C. Lew | Lighting and Set Design"
+  - "Carrie Monger | Rehearsal Manager, Deviser"
+  - "Jennifer Rivers | Rehearsal Assistant, Deviser"
+  - "Melanie Clark | Costume Designer"
+  - "Otis Ramsey-Zöe | Dramaturg"
+  - "Linsay Deming | Vocals"
+  - "Susie Pamudji | Production Manager"
 voices: null
-performers: null
-thanks: null
+performers: 
+  - "Stefanie Quinones Bass | Dancer, Deviser"
+  - "Nicola Daval | Performer"
+  - "Travis Flower | Music and Audio"
+  - "Pinling Lin | Dancer"
+  - "Katrina Toews | Dancer"
+thanks: 
+  - Emmett Williams
+  - "Samantha Vick-McGill"
+  - "Victoria Battista, Jeff Martin, Chris Reed, Justin Titley | Production Assistants"
+  - "Michael Kyrioglou | Marketing Consultant"
+  - "Danielle Mages Amato | Graphic Designer"
+  - David Snider
+  - Ian Pool
+  - Karyn Miller
+  - "Jenny McConnell-Frederick"
+  - "Flashpoint & CulturalDC"
+  - Washington Ballet at THEARC
+  - Our Guru advisors and donors
 subtitle: part of the inaugural Kogod Cradle series
 vimeo: "48039220"
 tags: 
