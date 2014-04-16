@@ -30,3 +30,16 @@ Proper title, description and tagging in flickr will ensure the photos appear on
 - `tag`: `engineer`, `collaborater`, or `treehouse`. Proper tagging will place the egg in the right bucket :)
 
 #### Manage long bios
+
+Long bio pdfs should be kept in the Dropbox `public` folder. Once a pdf is in the folder, right click on the file and choose "Copy Public Link".
+
+![](http://f.cl.ly/items/0P1q0n2M3e141L3h3A1x/Screen%20Shot%202014-04-15%20at%2011.34.25%20PM.png)
+
+Then in the `description` field in Flickr. Add a line of html that adds an anchor in the description. Below is an example for Renee's description:
+
+    (Associate Artistic Director, Producer) Producer, director, composer, and coffee lover.
+    <a href='paste_the_link_here'>See Renee's full Bio</a>
+
+![](http://f.cl.ly/items/1l0l1d2g1r2j022o3z2x/Screen%20Shot%202014-04-15%20at%2011.39.58%20PM.png)
+
+Once you completed the edit in flickr, you should see the link appearing on the website.
