@@ -6,7 +6,7 @@
 - Vimeo http://vimeo.com/user1744259
 
 
-## Content Mgmt
+## Content Management
 
 ### Shows
 - `/series`
@@ -21,7 +21,7 @@
 ### About
 - `/about`: You can edit the text content and the map in `0001-01-01-about.md`. Photo content is managed through flickr.
 
-#### Manage Flickr photo metatdata
+#### Manage Flickr photo metadata
 
 Proper title, description and tagging in flickr will ensure the photos appear on the about page with no frills. All the photos should be uploaded in the photoset [Banished Treehouse](http://www.flickr.com/photos/100588115@N07/with/13080602745). Here's what you need to do as you add a new person to the set:
 
