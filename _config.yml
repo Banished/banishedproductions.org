@@ -12,6 +12,11 @@ prose:
   rooturl: "_posts"
   media: "assets"
   metadata:
+    _posts/about:
+      - name: "layout"
+        field:
+          element:"hidden"
+          value:"about"
     _posts/shows:
       - name: "layout"
         field:
