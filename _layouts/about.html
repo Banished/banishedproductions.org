@@ -22,12 +22,12 @@ layout: default
 
 loadMap('about-map',"{{page.map}}");
 
-var aboutApi = "http://api.flickr.com/services/rest/?method=flickr.people.getPublicPhotos&api_key=19493fa9bbf4ab6081b55b2df529144d&user_id=100588115%40N07&format=json&jsoncallback=aboutSet"
+var aboutApi = "https://api.flickr.com/services/rest/?method=flickr.people.getPublicPhotos&api_key=19493fa9bbf4ab6081b55b2df529144d&user_id=100588115%40N07&format=json&jsoncallback=aboutSet"
 
 var aboutSet = function(resSet){
 	photos = resSet.photos.photo;
 	for (var i = 0; i<photos.length ;i++){
-		deatsApi = "http://api.flickr.com/services/rest/?method=flickr.photos.getInfo&api_key=19493fa9bbf4ab6081b55b2df529144d&photo_id="+ photos[i].id +"&format=json&jsoncallback=deats";
+		deatsApi = "https://api.flickr.com/services/rest/?method=flickr.photos.getInfo&api_key=19493fa9bbf4ab6081b55b2df529144d&photo_id="+ photos[i].id +"&format=json&jsoncallback=deats";
 		$.ajax({
    			type: 'GET',
     		url: deatsApi,
@@ -53,7 +53,7 @@ $.ajax({
 var deats = function(resPhoto){
 	photo = resPhoto.photo;
 
-	var photoUrl = "http:\/\/farm"+ photo.farm +
+	var photoUrl = "https:\/\/farm"+ photo.farm +
 		".staticflickr.com\/" + photo.server + 
 		"\/"+ photo.id + 
 		"_"+photo.secret +
