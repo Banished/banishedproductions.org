@@ -46,6 +46,7 @@ layout: default
 </section>
 {% endif %}
 <section class='show-summary col12 pad2w cf'>
+	{% if page.flickr or page.vimeo %}
 	<div class='col5 intro'>
 		{{content}}
 	</div>
@@ -54,13 +55,16 @@ layout: default
 		{% if page.flickr %}
 		<div id='flickr'></div>
 		{% endif %}
-		{% if page.hero %}
-		{% endif %}
 		<!-- videos -->
 		{% if page.vimeo %}
 		<iframe id='vimeo' src="http://player.vimeo.com/video/{{page.vimeo}}" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
 		{% endif %}
 	</div>
+	{% else %}
+		<div class='col12 intro'>
+		{{content}}
+	</div>
+	{% endif %}
 </section>
 <section class='archive'>
 	{% if page.tags contains 'instructions' %}
