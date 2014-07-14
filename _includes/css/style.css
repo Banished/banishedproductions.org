@@ -539,6 +539,15 @@ ul.series-content {
 .show-name {
   padding:10px 0;
 }
+.artillery ul {
+  padding:20px 0;
+  }
+
+.artillery ul li:before {
+  content:'+';
+  display:inline-block;
+  padding-right:10px;
+}
 /* shows */
 .show-venue {
   padding-bottom:20px;

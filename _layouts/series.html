@@ -2,9 +2,13 @@
 layout: default
 ---
 {% assign downcaseTitle = page.title | downcase %}
-<div class='col12 series-name'>
+<div class='col12 series-name {{downcaseTitle}}'>
 	<h1 class='title'>{{page.name}}</h1>
+	{% if page.tags contains "artillery" %}
+	{{page.content | markdownify }}
+	{% else %}
 	<p class='subtitle'>{{page.subtitle | capitalize }}</p>
+	{% endif %}
 </div>
 <div class='col12 animated {{downcaseTitle}}'>
 	<img src='{{site.baseurl}}/img/animated/{{downcaseTitle}}.gif'>
