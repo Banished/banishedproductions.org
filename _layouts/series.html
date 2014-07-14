@@ -10,9 +10,11 @@ layout: default
 	<p class='subtitle'>{{page.subtitle | capitalize }}</p>
 	{% endif %}
 </div>
+{% unless page.tags contains 'artillery' %}
 <div class='col12 animated {{downcaseTitle}}'>
 	<img src='{{site.baseurl}}/img/animated/{{downcaseTitle}}.gif'>
 </div>
+{% endunless %}
 <ul class='col12 series-content'>
 	{% for post in site.categories[downcaseTitle] reversed %}
 		{% if post.name %}
