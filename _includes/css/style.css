@@ -602,6 +602,12 @@ ul.series-content {
   font-size:15px;
   background:#f6f6f6;
 }
+#flickr,
+#vimeo{
+  float:left;
+  border-left:1px dotted #d3d3d3;
+  margin-left:40px;
+}
 #flickr img {
   width:100%;
 }
@@ -609,13 +615,14 @@ ul.series-content {
   opacity:0.8;
 }
 #vimeo {
-  padding:0 10px;
+  padding:30px 70px 0 30px;
   width:100%!important;
   height:240px;
 }
 .credentials p {
   padding:0;
   margin:0;
+  font-size:16px;
 }
 .credentials p.role {
   font-weight:300;
