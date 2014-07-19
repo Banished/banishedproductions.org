@@ -11,7 +11,7 @@ layout: default
 		{% endif %}
 		<p class='subtitle'>{{page.subtitle}}</p>
 	</div>
-	<ul class='subnav fr'>
+	<ul class='subnav col4'>
 		<li>
 			<a class='icon tactile {% if page.categories contains "tactile" %}active{% endif%}' href='{{site.baseurl}}/tactile'></a>
 		</li>
@@ -23,6 +23,9 @@ layout: default
 		</li>
 		<li>
 			<a class='icon hybrids {% if page.categories contains "hybrids" %}active{% endif%}' href='{{site.baseurl}}/hybrids'></a>
+		</li>
+		<li>
+			<a class='icon artillery-small {% if page.categories contains "artillery" %}active{% endif%}' href='{{site.baseurl}}/artillery'></a>
 		</li>
 	</ul>
 </section>
