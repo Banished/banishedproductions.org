@@ -45,6 +45,8 @@ prose:
               value: "tactile"
             - name: "hybrids"
               value: "hybrids"
+            - name: "artillery"
+              value: "artillery"
       - name: "flickr"
         field:
           element: "text"
