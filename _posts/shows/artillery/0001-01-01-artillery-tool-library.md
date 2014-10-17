@@ -2,9 +2,14 @@
 layout: show
 categories: artillery
 subtitle: "Open Hours: Tue & Thu 6:30-9:30p & Sat 10a-2p | Located at 716 Monroe St NE (through the Arts Walk near the Brookland metro’s Catholic Univ exit)"
-tags:
+tags: 
   - artillery
 name: ARTillery Tool Library
+published: true
+collaborators: null
+voices: null
+performers: null
+thanks: null
 ---
 
 <!-- style to reflect location and time predominantly -->
@@ -28,7 +33,7 @@ A knowledgeable staff member or volunteer will be available to answer questions 
 
 Tools may only be returned during open hours. Tools that are not returned by the one-week deadline incur a daily fee of $1 per tool. If a tool isn’t returned, is severely delinquent, or damaged upon return, the Member who borrowed it will be responsible for the full replacement cost.
 
-We accept tool donations! Bring them by during open hours.
+We accept tool donations, and donors get a tax-deduction. Bring them by during open hours.
 
 # How To Join
 
