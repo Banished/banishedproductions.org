@@ -39,10 +39,12 @@ We accept tool donations, and donors get a tax-deduction. Bring them by during o
 
 Click here for a [membership application](https://docs.google.com/forms/d/1fm6rkoTUb5zJrUXgUSn8uih02Iznb51LGR0Jjd_8NOw/viewform) or keep reading for more information.
 
-**We have an annual Handy-Dandy Membership**
+**We have a flat-rate Handy-Dandy Membership**
 
-- Valid for 1 year at the time of sign-up. $100 fee + min. 9 Volunteer Hours per year (see below for details on Volunteer Hours)
+- $100 fee + min. 9 Volunteer Hours per year (see below for details on Volunteer Hours). Valid for 1 year at the time of sign-up.
+
 - Are you an artist? Ask us in person about our Struggling Artist Concession.
+
 
 _Notes:  One membership = one person, rather than one group or theater company. Membership is contingent on completion of the Membership Application and approval by the organizers._
 
