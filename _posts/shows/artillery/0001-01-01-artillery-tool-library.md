@@ -1,7 +1,7 @@
 ---
 layout: show
 categories: artillery
-subtitle: "Open Hours: Tue & Thu 6:30-9:30p & Sat 10a-2p | Located at 716 Monroe St NE (through the Arts Walk near the Brookland metro’s Catholic Univ exit)"
+subtitle: Located at 716 Monroe St NE (through the Arts Walk near the Brookland metro’s Catholic Univ exit)
 tags: 
   - artillery
 name: ARTillery Tool Library
