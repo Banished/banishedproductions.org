@@ -27,7 +27,7 @@ Approved members are welcome to borrow up to 7 tools for up to 7 days (one week)
 
 Available tools, pictures, and descriptions are listed on our [Local Tools website](http://artillery.localtools.org/library/inventory/browse). This site will indicate whether an item is available or not at that moment.
 
-Tools are available on a first-come, first-served basis during Open Hours: Tuesdays and Thursdays (6:30PM-9:30PM) and Saturdays (10AM-2PM). 
+Tools are available on a first-come, first-served basis during Open Hours: Tuesdays and Thursdays (6:30PM-9:00PM) and Saturdays (11AM-2PM). 
 
 A knowledgeable staff member or volunteer will be available to answer questions and explain/demonstrate tools if necessary. No idea what tools you need? Drop by anyway and we’ll help you determine what you need.
 
