@@ -1,6 +1,6 @@
 ---
 categories: instructions
-published: false
+published: true
 ---
 
 Two workshopped performances played on 
