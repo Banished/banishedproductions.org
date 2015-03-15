@@ -12,12 +12,6 @@ performers: null
 thanks: null
 ---
 
-We are located at 716 Monroe St NE (through the Arts Walk near the Brookland metro’s Catholic Univ exit)
-
-<!-- calendar needs to happen -->
-
-EMAIL US: artillery@banishedproductions.org
-
 # How It Works
 
 **Basic Techniques** 
@@ -50,3 +44,9 @@ MAY 9, 2-5pm: **Social Justice & Theatre**
 MAY 17, 2-5pm: **Hat Making 101 with**
 
 MAY 23, 2-5pm: **Woodworking 201 - Dovetails**
+
+We are located at 716 Monroe St NE (through the Arts Walk near the Brookland metro’s Catholic Univ exit)
+
+<!-- calendar needs to happen -->
+
+EMAIL US: artillery@banishedproductions.org
