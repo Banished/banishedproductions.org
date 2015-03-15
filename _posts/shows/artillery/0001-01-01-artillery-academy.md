@@ -35,6 +35,7 @@ MAR 29, 2-5pm: **[Artful Wellness](https://www.artful.ly/store/events/5356 "BUY 
 $10 registration fee
 
 APR 11, 11am-3pm: **Woodcarving 101 - Spoons with Kenneth Kortemeier**
+<br> This class is part of our #RadicleProjects Series
   
 APR 18, 2-5pm: **Woodworking 103**
 
