@@ -20,11 +20,9 @@ EMAIL US: artillery@banishedproductions.org
 
 # How It Works
 
-**Basic Techniques** Classes will be offered monthly, and are open on a first-come, first-serve basis. Registrations are generally limited to 16 students at maximum.
-
-**Basic Techniques** Fees:
-
-- Single Session - $10-40
+**Basic Techniques** 
+Classes will be offered monthly, and are open on a first-come, first-serve basis. Registrations are generally limited to 16 students at maximum.
+Fees for single drop-ins range: $10-40
 - 3-class pass - $75
 
 _Note: these may not cover additional material fees for some classes._
