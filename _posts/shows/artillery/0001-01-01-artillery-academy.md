@@ -20,6 +20,7 @@ Fees for single drop-ins range: $10-40
 - 3-class pass - $75
 
 _Note: these may not cover additional material fees for some classes._
+<br>
 
 # 2015 SPRING CLASSES
 Click on link to register for classes.
