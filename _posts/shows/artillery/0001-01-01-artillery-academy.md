@@ -33,17 +33,22 @@ MAR 29, 2-5pm: **[Artful Wellness](https://www.artful.ly/store/events/5356 "BUY 
 <br> $10 registration fee
 
 APR 11, 11am-3pm: **Woodcarving 101 - Spoons with Kenneth Kortemeier**
-<br> This class is part of our #RadicleProjects Series
+<br> Registration Details TBA. This class is part of our #RadicleProjects Series
   
 APR 18, 2-5pm: **Woodworking 103**
+<br> Registration Details TBA.
 
 APR 19, 2-5pm: **Visual Storytelling**
+<br> Registration Details TBA.
 
 MAY 9, 2-5pm: **Social Justice & Theatre**
+<br> Registration Details TBA.
 
 MAY 17, 2-5pm: **Hat Making 101 with**
+<br> Registration Details TBA.
 
 MAY 23, 2-5pm: **Woodworking 201 - Dovetails**
+<br> Registration Details TBA.
 
 We are located at 716 Monroe St NE (through the Arts Walk near the Brookland metro’s Catholic Univ exit)
 
