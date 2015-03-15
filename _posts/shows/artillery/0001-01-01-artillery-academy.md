@@ -21,7 +21,7 @@ Fees for single drop-ins range: $10-40
 
 _Note: these may not cover additional material fees for some classes._
 
-**2015 SPRING CLASSES**
+# 2015 SPRING CLASSES
 <br>
 Click on link to register for classes.
 
