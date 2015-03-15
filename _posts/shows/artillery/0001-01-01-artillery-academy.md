@@ -44,7 +44,7 @@ APR 19, 2-5pm: **Visual Storytelling**
 MAY 9, 2-5pm: **Social Justice & Theatre**
 <br> Registration Details TBA.
 
-MAY 17, 2-5pm: **Hat Making 101 with**
+MAY 17, 2-5pm: **Hat Making 101**
 <br> Registration Details TBA.
 
 MAY 23, 2-5pm: **Woodworking 201 - Dovetails**
