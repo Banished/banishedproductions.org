@@ -31,22 +31,22 @@ _Note: these may not cover additional material fees for some classes._
 <br>
 Click on link to register for classes.
 
-MAR 28, 2-5pm: Welding 101 with Bob Echanique
+MAR 28, 2-5pm: **Welding 101 with Bob Echanique**
 <br>
 $40 registration + $5 material fee
 
-MAR 29, 2-5pm: [Artful Wellness](https://www.artful.ly/store/events/5356 "BUY TICKETS") with Kiley Bednar 
+MAR 29, 2-5pm: **[Artful Wellness](https://www.artful.ly/store/events/5356 "BUY TICKETS") with Kiley Bednar** 
 <br>
 $10 registration fee
 
-APR 11, 11am-3pm: Woodcarving 101 - Spoons with Kenneth Kortemeier
+APR 11, 11am-3pm: **Woodcarving 101 - Spoons with Kenneth Kortemeier**
   
-APR 18, 2-5pm: Woodworking 103
+APR 18, 2-5pm: **Woodworking 103**
 
-APR 19, 2-5pm: Visual Storytelling
+APR 19, 2-5pm: **Visual Storytelling**
 
-MAY 9, 2-5pm: Social Justice & Theatre
+MAY 9, 2-5pm: **Social Justice & Theatre**
 
-MAY 17, 2-5pm: Hat Making 101 with
+MAY 17, 2-5pm: **Hat Making 101 with**
 
-MAY 23, 2-5pm: Woodworking 201 - Dovetails
+MAY 23, 2-5pm: **Woodworking 201 - Dovetails**
