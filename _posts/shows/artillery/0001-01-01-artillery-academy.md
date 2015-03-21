@@ -26,7 +26,7 @@ _Note: these may not cover additional material fees for some classes._
 ## 2015 SPRING CLASSES
 Click on link (in orange) to register for classes.
 
-MAR 28, 2-5pm: **Welding 101 with Bob Echanique**
+MAR 28, 2-5pm: **[Welding 101](https://www.artful.ly/store/events/5061) with Bob Echanique**
 <br> $40 registration + $5 material fee
 
 MAR 29, 2-5pm: **[Artful Wellness](https://www.artful.ly/store/events/5356 "BUY TICKETS") with Kiley Bednar** 
