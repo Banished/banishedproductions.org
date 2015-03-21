@@ -19,7 +19,7 @@ Classes will be offered monthly, and are open on a first-come, first-serve basis
 Fees for single drop-ins range: $10-$40
 <br>
 Ask us about our 3-class pass - $75 (per person for 3 classes of your choice)
-
+<br>
 _Note: these may not cover additional material fees for some classes._
 <br>
 <br>
