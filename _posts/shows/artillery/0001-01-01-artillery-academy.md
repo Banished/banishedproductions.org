@@ -33,8 +33,8 @@ MAR 28, 2-5pm: **[Welding 101](https://www.artful.ly/store/events/5061) with Bob
 MAR 29, 2-5pm: **[Artful Wellness](https://www.artful.ly/store/events/5356 "BUY TICKETS") with Kiley Bednar** 
 <br> $10 registration fee
 
-APR 11, 11am-3pm: **Woodcarving 101 - Spoons with Kenneth Kortemeier**
-<br> Registration Details TBA. This class is part of our #RadicleProjects Series
+APR 11, 11am-3pm: **[Woodcarving 101 - Spoons](https://www.artful.ly/store/events/5453) with Kenneth Kortemeier**
+<br> $35 registration fee. This class is part of our #RadicleProjects Series
   
 APR 18, 2-5pm: **Woodworking 103**
 <br> Registration Details TBA.
