@@ -27,19 +27,10 @@ _Note: these may not cover additional material fees for some classes._
 ## 2015 SPRING CLASSES
 Click on link (in orange) to register for classes.
 
-MAR 28, 2-5pm: **[Welding 101](https://www.artful.ly/store/events/5061) with Bob Echanique**
-<br> $40 registration + $5 material fee
-
-MAR 29, 2-5pm: **[Artful Wellness](https://www.artful.ly/store/events/5356 "BUY TICKETS") with Kiley Bednar** 
-<br> $10 registration fee
-
 APR 11, 11am-3pm: **[Woodcarving 101 - Spoons](https://www.artful.ly/store/events/5453) with Kenneth Kortemeier**
 <br> $35 registration fee. This class is part of our #RadicleProjects Series
   
 APR 18, 2-5pm: **Woodworking 103**
-<br> Registration Details TBA.
-
-APR 19, 2-5pm: **Visual Storytelling**
 <br> Registration Details TBA.
 
 MAY 9, 2-5pm: **Social Justice & Theatre**
