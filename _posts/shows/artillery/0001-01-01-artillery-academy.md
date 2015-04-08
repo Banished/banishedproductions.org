@@ -31,7 +31,7 @@ APR 11, 11am-3pm: **[Woodcarving 101 - Spoons](https://www.artful.ly/store/event
 <br> $35 registration fee. This class is part of our #RadicleProjects Series
   
 APR 18, 2-5pm: **[Woodworking 103](https://www.artful.ly/store/events/5660)**
-<br> Registration Details TBA.
+<br> $40 registration & material fee. This class connects with [**TYGER**](banishedproductions.org/hybrids/tyger/), which runs April 16-25, 2015.
 
 MAY 9, 2-5pm: **Social Justice & Theatre**
 <br> Registration Details TBA.
