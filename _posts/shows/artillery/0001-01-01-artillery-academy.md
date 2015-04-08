@@ -30,7 +30,7 @@ Click on link (in orange) to register for classes.
 APR 11, 11am-3pm: **[Woodcarving 101 - Spoons](https://www.artful.ly/store/events/5453) with Kenneth Kortemeier**
 <br> $35 registration fee. This class is part of our #RadicleProjects Series
   
-APR 18, 2-5pm: **Woodworking 103**
+APR 18, 2-5pm: **[Woodworking 103](https://www.artful.ly/store/events/5660)**
 <br> Registration Details TBA.
 
 MAY 9, 2-5pm: **Social Justice & Theatre**
