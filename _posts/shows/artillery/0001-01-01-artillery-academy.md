@@ -43,10 +43,11 @@ MAY 30, 2-5pm: **Playback Theatre**
 <br> Registration Details TBA.
 
 We are located at 716 Monroe St NE (through the Arts Walk near the Brookland metro’s Catholic Univ exit)
-EMAIL US: artillery@banishedproductions.org
+<br> EMAIL US: artillery@banishedproductions.org
 
 PREVIOUS CLASSES
-APR 11, 11am-3pm: **[Woodcarving 101 - Spoons](https://www.artful.ly/store/events/5453) with Kenneth Kortemeier**
-<br> $35 registration fee. This class is part of our #RadicleProjects Series
+<br> APR 11, 11am-3pm: **[Woodcarving 101 - Spoons](https://www.artful.ly/store/events/5453) with Kenneth Kortemeier**
+<br> $35 registration fee. 
+<br> This class is part of our #RadicleProjects Series
 
 <!-- calendar needs to happen -->
