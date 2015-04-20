@@ -21,9 +21,7 @@ Maurya Simon (“The Era of the Period”)
 <br>
 Jack Smith (“I Knew He Would Never Come to Me…”)
 <br>
-San Francisco Mime Troupe Manifesto
-<br>
-writings by The Living Stage 
+writings by The Living Stage and the San Francisco Mime Troupe Manifesto
 <br>
 Venezuelan Lullaby (Go To Sleep)
 
