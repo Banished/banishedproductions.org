@@ -27,19 +27,19 @@ _Note: these may not cover additional material fees for some classes._
 ## 2015 SPRING CLASSES
 Click on link (in orange) to register for classes.
 
-APR 18, 2-5pm: **[Woodworking 103](https://www.artful.ly/store/events/5660)**
-<br> $40 registration & material fee. This class connects with [**TYGER**](banishedproductions.org/hybrids/tyger/), which runs April 16-25, 2015.
+MAY 9, 2-5pm: **[Social Justice & Theatre: The Tree of Theatre of the Oppressed](https://www.artful.ly/store/events/5946)**
+<br> $15 registration fee.
 
-MAY 9, 2-5pm: **Social Justice & Theatre**
-<br> Registration Details TBA.
-
-MAY 17, 2-5pm: **Hat-Making 101**
-<br> Registration Details TBA.
+MAY 17, 2-5pm: **[Hat-Making 101: Cocktail Hats for Sass & Class](https://www.artful.ly/store/events/5944)**
+<br> Registration Opens SOON. Please check back here.
 
 MAY 23, 2-5pm: **Woodworking 201 - Dovetails**
 <br> Registration Details TBA.
 
 MAY 30, 2-5pm: **Playback Theatre**
+<br> Registration Details TBA.
+
+JUN 7, 2-5pm: **Synthesis of Sound & Movement**
 <br> Registration Details TBA.
 
 We are located at 716 Monroe St NE (through the Arts Walk near the Brookland metro’s Catholic Univ exit)
@@ -49,5 +49,8 @@ We are located at 716 Monroe St NE (through the Arts Walk near the Brookland met
 <br> APR 11, 11am-3pm: **[Woodcarving 101 - Spoons](https://www.artful.ly/store/events/5453) with Kenneth Kortemeier**
 <br> $35 registration fee. 
 <br> This class is part of our #RadicleProjects Series
+
+APR 18, 2-5pm: **[Woodworking 103](https://www.artful.ly/store/events/5660)**
+<br> $40 registration & material fee. This class connects with [**TYGER**](banishedproductions.org/hybrids/tyger/), which runs April 16-25, 2015.
 
 <!-- calendar needs to happen -->
