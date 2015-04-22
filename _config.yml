@@ -130,3 +130,8 @@ prose:
           options:
             - name: "image"
               value: "image"
+    _posts/other:
+      - name: "layout"
+        field:
+          element:"hidden"
+          value:"simple"
