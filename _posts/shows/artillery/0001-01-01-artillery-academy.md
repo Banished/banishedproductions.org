@@ -31,7 +31,7 @@ MAY 9, 2-5pm: **[Social Justice & Theatre: The Tree of Theatre of the Oppressed]
 <br> $15 registration fee.
 
 MAY 17, 2-5pm: **[Hat-Making 101: Cocktail Hats for Sass & Class](https://www.artful.ly/store/events/5944)**
-<br> Registration Opens SOON. Please check back here.
+<br> $40 registration fee (includes $10 materials)
 
 MAY 23, 2-5pm: **Woodworking 201 - Dovetails**
 <br> Registration Details TBA.
