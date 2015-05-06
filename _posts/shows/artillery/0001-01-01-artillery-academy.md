@@ -36,7 +36,7 @@ MAY 17, 2-5pm: **[Hat-Making 101: Cocktail Hats for Sass & Class](https://www.ar
 MAY 23, 2-5pm: **[Woodworking 201 - Dovetails](https://www.artful.ly/store/events/5978)**
 <br> $35 registration fee (includes $5 materials)
 
-MAY 30, 2-5pm: **[Playback Theatre](https://www.artful.ly/banished-productions/store/events/5977)**
+MAY 30, 2-5pm: **[Intro to Playback Theatre](https://www.artful.ly/banished-productions/store/events/5977)**
 <br> $15 registration fee. 
 
 JUN 7, 2:30-5:30pm: **Synthesis of Sound & Movement**
