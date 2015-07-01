@@ -29,7 +29,8 @@ thanks:
   - "Lisa Carr, and all our rockstar board members"
   - David Babcock
   - Sorane Yamahira
-  - Wits End Puppets: "Genna Davidson, Pat Germann, Amy Kellett"
+  - "Wits End Puppets | Genna Davidson, Pat Germann, Amy Kellett"
+  - "Source picture by Source picture by https://www.flickr.com/photos/sarabiljana/"
 name: I Thought the Earth Remembered Me
 tags: 
   - current
