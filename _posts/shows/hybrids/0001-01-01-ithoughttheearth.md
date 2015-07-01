@@ -30,7 +30,7 @@ thanks:
   - David Babcock
   - Sorane Yamahira
   - "Wits End Puppets | Genna Davidson, Pat Germann, Amy Kellett"
-  - "Source picture by Source picture by https://www.flickr.com/photos/sarabiljana/"
+  - "Source picture by https://www.flickr.com/photos/sarabiljana/"
 name: I Thought the Earth Remembered Me
 tags: 
   - current
