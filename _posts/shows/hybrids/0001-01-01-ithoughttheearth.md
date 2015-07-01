@@ -1,6 +1,6 @@
 ---
 layout: show
-published: false
+published: true
 categories: hybrids
 collaborators: 
   - "Carmen C. Wong | Concept, Co-Producer"
@@ -10,6 +10,11 @@ collaborators:
   - "Emily Gilson | Facilitator"
   - "Timothée Courouble | Production Intern"
   - "Jennie Gross & Ian Black | Moss House Designers"
+  - "Meredith Bove | Artist Collaborator"
+  - "Cecilia Cackley | Artist Collaborator"
+  - "Ashi Day | Artist Collaborator"
+  - "DeLesslin George-Warren | Artist Collaborator"
+  - "David Szanto | Artist Collaborator"
 voices: null
 performers: 
   - Meredith Bove
@@ -19,11 +24,16 @@ performers:
   - Ronee Penoi
   - David Szanto
   - Carmen C. Wong
-thanks: "THANKS TO - $2 Holla Cheftestants! - Lisa Carr, and all our rockstar board members - David Babcock - Sorane Yamahira"
+thanks: 
+  - "$2 Holla Cheftestants!"
+  - "Lisa Carr, and all our rockstar board members"
+  - David Babcock
+  - Sorane Yamahira
 name: I Thought the Earth Remembered Me
 tags: 
   - current
 ---
+
 
 ## I Thought the Earth Remembered Me
 
