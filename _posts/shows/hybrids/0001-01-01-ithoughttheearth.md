@@ -1,11 +1,26 @@
 ---
 layout: show
 published: false
-categories: footsteps
-collaborators: null
+categories: hybrids
+collaborators: 
+  - "Carmen C. Wong | Concept, Co-Producer"
+  - "Ronee Penoi | Director, Co-Producer"
+  - "Ouida Maedel | Production Manager, Facilitator"
+  - "Niell DuVal | Technical Director"
+  - "Emily Gilson | Facilitator"
+  - "Timothée Courouble | Production Intern"
+  - "Jennie Gross & Ian Black | Moss House Designers"
 voices: null
-performers: null
-thanks: null
+performers: 
+  - Meredith Bove
+  - Cecilia Cackley
+  - Ashi Day
+  - "DeLesslin George-Warren"
+  - Ronee Penoi
+  - David Szanto
+  - Carmen C. Wong
+thanks: "THANKS TO - $2 Holla Cheftestants! - Lisa Carr, and all our rockstar board members - David Babcock - Sorane Yamahira"
+name: I Thought the Earth Remembered Me
 ---
 
 ## I Thought the Earth Remembered Me
