@@ -45,11 +45,11 @@ Press Preview & Invited Dress
 Performance Times
 <br> 5 persons will be admitted in each wave 
 <br> SU 7/12:  7:00pm | 7:20pm | 7:40pm | 8:00pm | 8:20pm  
-<br> WE 7/15: 7:00pm | 7:20pm | 7:40pm | 8:00pm | 8:20pm  
-<br> TH 7/16:  8:00pm | 8:20pm | 8:40pm | 9:00pm  
-<br> FR 7/17:  8:00pm | 8:20pm | 8:40pm | 9:00pm  
-<br> SA 7/18:  7:00pm | 7:20pm | 7:40pm | 8:00pm | 8:20pm | 8:40pm | 9:00pm  
-<br> SU 7/19:  7:00pm | 7:20pm | 7:40pm | 8:00pm | 8:20pm | 8:40pm | 9:00pm
+WE 7/15: 7:00pm | 7:20pm | 7:40pm | 8:00pm | 8:20pm  
+TH 7/16:  8:00pm | 8:20pm | 8:40pm | 9:00pm  
+FR 7/17:  8:00pm | 8:20pm | 8:40pm | 9:00pm  
+SA 7/18:  7:00pm | 7:20pm | 7:40pm | 8:00pm | 8:20pm | 8:40pm | 9:00pm  
+SU 7/19:  7:00pm | 7:20pm | 7:40pm | 8:00pm | 8:20pm | 8:40pm | 9:00pm
 
  [banished? ARTillery]( https://goo.gl/maps/GH5f8): Studio #27, 716 Monroe St NE, DC 20017
 
