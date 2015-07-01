@@ -21,6 +21,8 @@ performers:
   - Carmen C. Wong
 thanks: "THANKS TO - $2 Holla Cheftestants! - Lisa Carr, and all our rockstar board members - David Babcock - Sorane Yamahira"
 name: I Thought the Earth Remembered Me
+tags: 
+  - current
 ---
 
 ## I Thought the Earth Remembered Me
