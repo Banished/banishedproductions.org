@@ -16,7 +16,7 @@ Press Preview & Invited Dress
 <br> SA 7/11: 7:00pm | 7:20pm | 7:40pm | 8:00pm |
 
 Performance Times
-<br>5 persons will be admitted in each wave 
+<br> 5 persons will be admitted in each wave 
 <br> SU 7/12:  7:00pm | 7:20pm | 7:40pm | 8:00pm | 8:20pm  
 <br> WE 7/15: 7:00pm | 7:20pm | 7:40pm | 8:00pm | 8:20pm  
 <br> TH 7/16:  8:00pm | 8:20pm | 8:40pm | 9:00pm  
