@@ -33,11 +33,12 @@ thanks:
 name: I Thought the Earth Remembered Me
 tags: 
   - current
-subtitle: "inside "
+subtitle: small performances about rooting and belonging within living kingdoms
 ---
 
 
-![ittermGUIDE.jpg]({{site.baseurl}}/assets/ittermGUIDE.jpg)
+![itterm-bpweb.jpg]({{site.baseurl}}/assets/itterm-bpweb.jpg)
+
 
 Wander and play within five intimate performance vignettes that ponder our relationships with nature, time and how we enact and embody belonging and rootedness. We’ll story our intricate connections to home and land, and to spores, sprouts and microbes in living, intangible kingdoms.
 
