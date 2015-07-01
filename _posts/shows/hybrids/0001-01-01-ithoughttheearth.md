@@ -29,11 +29,15 @@ thanks:
   - "Lisa Carr, and all our rockstar board members"
   - David Babcock
   - Sorane Yamahira
+  - Wits End Puppets: "Genna Davidson, Pat Germann, Amy Kellett"
 name: I Thought the Earth Remembered Me
 tags: 
   - current
+subtitle: "inside "
 ---
 
+
+![ittermGUIDE.jpg]({{site.baseurl}}/assets/ittermGUIDE.jpg)
 
 Wander and play within five intimate performance vignettes that ponder our relationships with nature, time and how we enact and embody belonging and rootedness. We’ll story our intricate connections to home and land, and to spores, sprouts and microbes in living, intangible kingdoms.
 
