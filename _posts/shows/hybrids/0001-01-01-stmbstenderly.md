@@ -16,9 +16,13 @@ Wander within 5 miniature performances that form a single dirge for banished?'s 
 **Performance Times**
 <br> 6 persons will be admitted in each wave 
 <br> WE 7/20 7:30PM | 8:00PM | 8:30PM | 9:00PM
+
 TH 7/21 7:00PM | 7:30PM | 8:00PM | 8:30PM | 9:00PM
+
 FR 7/22 7:00PM | 7:30PM | 8:00PM | 8:30PM | 9:00PM
+
 SA 7/23 7:00PM | 7:30PM | 8:00PM | 8:30PM | 9:00PM
+
 SU 7/24 3:30PM | 4:00PM | 4:30PM | 5:00PM | 5:30PM
 
 **Playing at**
