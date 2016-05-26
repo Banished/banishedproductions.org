@@ -24,7 +24,6 @@ SU 7/24 3:30PM | 4:00PM | 4:30PM | 5:00PM | 5:30PM
 **Playing at**
 [RhizomeDC](https://goo.gl/maps/6GjGhz3GjTn): 6950 Maple St NW, Washington, DC 20012
 
-### [Get tickets online]()
 
 Tickets are also available 30minutes before each performance at the door.
 
