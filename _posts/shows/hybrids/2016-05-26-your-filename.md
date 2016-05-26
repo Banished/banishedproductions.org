@@ -1,13 +1,13 @@
 ---
 layout: show
-categories: footsteps
+categories: hybrids
 published: false
+name: ", she took me back so tenderly, "
 ---
 
 
 
-![]({{site.baseurl}}/assets/%2Cstmbst%2C-GUIDE.jpg)![,stmbst,-GUIDE.jpg]({{site.baseurl}}/assets/,stmbst,-GUIDE.jpg)
-
+![,stmbst,-GUIDE.jpg]({{site.baseurl}}/assets/%2Cstmbst%2C-GUIDE.jpg)
 
 Wander within 5 miniature performances that form a single dirge for banished?'s final production, our last avant-pop voyage. Bury us deep and well in your memory as we fall headlong into luminous doom. An alchemical sea-change, rituals of the future and parallel lives may help us all become transformed into something better.
 
@@ -30,6 +30,4 @@ SU 7/24 3:30PM | 4:00PM | 4:30PM | 5:00PM | 5:30PM
 
 Tickets are also available 30minutes before each performance at the door.
 
-, she took me back so tenderly, is presented as part of the 2016 Capital Fringe Festival, a  
-
-
+, she took me back so tenderly, is presented as part of the 2016 Capital Fringe Festival, a
