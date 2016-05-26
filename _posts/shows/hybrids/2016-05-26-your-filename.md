@@ -6,7 +6,7 @@ published: false
 
 
 
-![itterm-bpweb.jpg]({{site.baseurl}}/assets/itterm-bpweb.jpg)
+![]({{site.baseurl}}/assets/%2Cstmbst%2C-GUIDE.jpg)![,stmbst,-GUIDE.jpg]({{site.baseurl}}/assets/,stmbst,-GUIDE.jpg)
 
 
 Wander within 5 miniature performances that form a single dirge for banished?'s final production, our last avant-pop voyage. Bury us deep and well in your memory as we fall headlong into luminous doom. An alchemical sea-change, rituals of the future and parallel lives may help us all become transformed into something better.
