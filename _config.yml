@@ -1,7 +1,7 @@
 exclude:
   - README.md
   - .gitignore
-kramdown: rdiscount
+markdown: kramdown
 rdiscount:
   extensions: [smart]
 permalink: /:categories/:title
