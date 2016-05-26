@@ -3,6 +3,9 @@ layout: show
 categories: hybrids
 published: false
 name: ", she took me back so tenderly, "
+collaborators: "Teresa Braun, Rachel Hynes, Levia Lew, Ouida Maedel, Carrie Monger, Gordon Nimmo-Smith, Ayodamola Okunseinde, Susie Pamudji, Otis Cortez Ramsey-Zöe, Jane Claire Remick, Abby Zan Schwarz, Glynnis Vance, Carmen C. Wong"
+performers: "Stefanie Quinones Bass, Teresa Braun, Rachel Hynes, Ouida Maedel, Carrie Monger, Ayodamola Okunseinde, Jane Claire Remick, Carmen C. Wong"
+thanks: "Alyssa Schimmel, Moriah Browning, RhizomeDC"
 ---
 
 
