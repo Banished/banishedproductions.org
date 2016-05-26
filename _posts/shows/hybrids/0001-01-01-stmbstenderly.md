@@ -1,6 +1,6 @@
 ---
 layout: show
-categories: footsteps
+categories: hybrids
 published: true
 ---
 
