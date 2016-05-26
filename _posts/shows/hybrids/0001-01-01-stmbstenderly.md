@@ -1,7 +1,7 @@
 ---
 layout: show
 categories: footsteps
-published: false
+published: true
 ---
 
 
