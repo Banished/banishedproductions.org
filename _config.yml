@@ -1,11 +1,10 @@
 exclude:
   - README.md
   - .gitignore
-markdown: kramdown
 rdiscount:
   extensions: [smart]
 permalink: /:categories/:title
-baseurl: 
+baseurl:
 
 #prose
 prose:
